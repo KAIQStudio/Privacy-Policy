@@ -1,12 +1,15 @@
-<label for="language-select">語言 / Languages：</label>
-<select id="language-select" onchange="location = this.value;">
-  <option value="./">English</option>
-  <option value="privacy-zh.md" selected>繁體中文</option>
-</select>
+<div>
+  <label>語言 / Languages：</label>
+  <select onchange="location = this.value;">
+    <option value="./">English</option>
+    <option value="privacy-zh" selected>繁體中文</option>
+  </select>
+</div>
 
 ---
 
 # VaultX 隱私權政策
+
 **最後更新日期：2026年9月17日**
 ## 1. 引言
 1.1 「VaultX」（以下簡稱「本App」）為一款提供安全密碼管理與資料加密保護的工具，旨在協助使用者安全儲存與管理各類帳號密碼。我們承諾保護使用者的個人資訊與隱私安全，本隱私政策將詳細說明本App如何收集、使用、儲存及保護您的個人資訊。
