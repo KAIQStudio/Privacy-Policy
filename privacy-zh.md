@@ -1,10 +1,7 @@
-<div>
-  <label>語言 / Languages：</label>
-  <select onchange="location = this.value;">
-    <option value="./">English</option>
-    <option value="privacy-zh" selected>繁體中文</option>
-  </select>
-</div>
+<select onchange="location = this.value;">
+  <option value="./">English</option>
+  <option value="privacy-zh" selected>繁體中文</option>
+</select>
 
 ---
 
