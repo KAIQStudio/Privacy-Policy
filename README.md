@@ -1,4 +1,5 @@
 # VaultX Privacy Policy
+Languages: **English** | [繁體中文](privacy-zh)
 **Last Updated: September 17, 2026**
 
 ## 1. Introduction
