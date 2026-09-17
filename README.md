@@ -1,89 +1,90 @@
-# VaultX 隱私權政策
-**最後更新日期：2026年9月17日**
-## 1. 引言
-1.1 「VaultX」（以下簡稱「本App」）為一款提供安全密碼管理與資料加密保護的工具，旨在協助使用者安全儲存與管理各類帳號密碼。我們承諾保護使用者的個人資訊與隱私安全，本隱私政策將詳細說明本App如何收集、使用、儲存及保護您的個人資訊。
+# VaultX Privacy Policy
+**Last Updated: September 17, 2026**
 
-1.2 任何個人或團體（以下簡稱「您」或「使用者」）在使用本App服務前，應仔細閱讀並充分理解本隱私政策之全部內容。一旦您開始使用本App，即視為同意本政策及《服務條款》的約束；若您不同意，請立即停止使用本App。
+## 1. Introduction
+1.1 "VaultX" (hereinafter referred to as "this App") is a tool that provides secure password management and data encryption protection, designed to help users securely store and manage various account passwords. We are committed to protecting users' personal information and privacy. This Privacy Policy explains in detail how this App collects, uses, stores, and protects your personal information.
 
-1.3 如您對本隱私政策有任何疑問，可透過以下信箱聯繫我們：kai.q.apps@gmail.com。
+1.2 Any individual or group (hereinafter referred to as "you" or "user") should carefully read and fully understand all contents of this Privacy Policy before using this App's services. Once you begin using this App, you are deemed to have agreed to be bound by this Policy and the "Terms of Service"; if you do not agree, please stop using this App immediately.
 
-1.4 本App適合 3歲以上 之使用者使用。若使用者為未成年人，建議在法定監護人的陪同與同意下使用本App服務，以確保帳號與密碼資料之安全管理。
+1.3 If you have any questions about this Privacy Policy, you may contact us at the following email: kai.q.apps@gmail.com.
 
-## 2. 我們收集的資訊
-2.1 為提供安全的密碼保險箱服務，本App遵循最小權限與隱私至上原則，您的所有密碼與資料均加密存放於您的設備本機中，我們不會將您的主密碼或保險箱明文上傳至任何外部伺服器。具體收集或處理的資訊類型如下：
+1.4 This App is suitable for users aged 3 and above. If the user is a minor, it is recommended to use this App's services with the accompaniment and consent of a legal guardian to ensure the secure management of account and password data.
 
-(i) 帳戶與登入資訊： 本App採用本機獨立運作設計，無需註冊繁雜的雲端帳戶。您的主密碼與加解密金鑰均透過您設備內建的安全硬體與加密機制（如作業系統級金鑰保護）安全存放於本機。
+## 2. Information We Collect
+2.1 To provide a secure password vault service, this App follows the principles of least privilege and privacy first. All your passwords and data are encrypted and stored locally on your device. We will not upload your master password or vault plaintext to any external server. The specific types of information collected or processed are as follows:
 
-(ii) 設備資訊： 包括作業系統版本、App版本號等基礎數據，用於保障App穩定執行及適配不同設備。
+(i) Account and Login Information: This App is designed to operate independently on a local basis, without the need to register a complicated cloud account. Your master password and encryption/decryption keys are securely stored locally through your device's built-in security hardware and encryption mechanisms (such as operating system-level key protection).
 
-(iii) 使用數據： 包括崩潰回報、功能使用狀況等匿名化數據，僅用於優化App穩定性與修復漏洞。
+(ii) Device Information: This includes basic data such as operating system version and App version number, used to ensure the stable operation of the App and adapt to different devices.
 
-(iv) 內購與交易資訊： 若您購買 PRO 解鎖升級，相關交易與驗證由各大應用程式商店官方管道處理，我們僅會接收到商店回傳的購買狀態識別（用於解鎖 PRO 功能），不會收集您的任何金融帳戶或信用卡敏感資訊。
+(iii) Usage Data: This includes anonymized data such as crash reports and feature usage, used only to optimize App stability and fix vulnerabilities.
 
-2.2 本App可能請求存取以下設備權限，您可自主選擇是否授權：
+(iv) In-App Purchases and Transaction Information: If you purchase the PRO unlock upgrade, the related transactions and verification are handled by the official channels of the major app stores. We only receive the purchase status identifier returned by the store (used to unlock the PRO feature) and will not collect any of your financial account or credit card sensitive information.
 
-生物辨識權限（若適用）：用於解鎖保險箱，拒絕授權不影響您使用主密碼解鎖；
+2.2 This App may request access to the following device permissions, and you may choose whether to authorize them at your own discretion:
 
-儲存/檔案權限：僅用於匯出或匯入加密備份檔案，拒絕授權不影響App內部資料存放。
+Biometric Permission (if applicable): Used to unlock the vault; refusing authorization does not affect your use of the master password to unlock;
 
-2.3 所有資訊的收集與處理均基於您的明示同意或本地安全機制的觸發，您可隨時透過設備設定或App內選項清除本機資料。
+Storage/File Permission: Used only to export or import encrypted backup files; refusing authorization does not affect the storage of data within the App.
 
-## 3. 資訊的使用方式
-3.1 收集與處理的資訊僅用於以下目的，且不會超出您授權的範圍：
+2.3 All collection and processing of information is based on your explicit consent or the triggering of local security mechanisms. You may clear local data at any time through device settings or options within the App.
 
-(i) 提供密碼保險箱的加密儲存、檢視、匯入與匯出功能；
+## 3. How Information Is Used
+3.1 The information collected and processed is used only for the following purposes and will not exceed the scope of your authorization:
 
-(ii) 驗證主密碼（Master Password）與保護資料櫃安全；
+(i) To provide the encrypted storage, viewing, import, and export functions of the password vault;
 
-(iii) 驗證應用程式商店的內購 PRO 授權狀態；
+(ii) To verify the Master Password and protect the security of the vault;
 
-(iv) 保障App穩定執行，修復漏洞、優化功能體驗；
+(iii) To verify the PRO authorization status of in-app purchases from the app store;
 
-(v) 遵守適用法律規定，回應主管機關的合法查詢。
+(iv) To ensure the stable operation of the App, fix vulnerabilities, and optimize the functional experience;
 
-3.2 我們絕不會將您的個人或保險箱密碼資訊出售、出租或交易給任何第三方；所有核心加密資料均受本機安全機制嚴密保護。
+(v) To comply with applicable laws and regulations and respond to lawful inquiries from competent authorities.
 
-## 4. 數據存儲與安全
-4.1 我們採用業界標準的加密技術（如密碼雜湊、強加密演算法與作業系統安全硬體保護金鑰）及安全防護措施，保護您的主密碼與加密資料免受未經授權的存取、洩露、修改或刪除。
+3.2 We will never sell, rent, or trade your personal or vault password information to any third party; all core encrypted data is strictly protected by local security mechanisms.
 
-4.2 您的加密資料與主密碼資訊僅儲存於您的設備本機中。我們不會在遠端伺服器保留您的明文資料。
+## 4. Data Storage and Security
+4.1 We adopt industry-standard encryption technologies (such as password hashing, strong encryption algorithms, and operating system security hardware-protected keys) and security safeguards to protect your master password and encrypted data from unauthorized access, disclosure, modification, or deletion.
 
-4.3 您可隨時透過App內的刪除資料櫃或解除安裝App來清除所有本機數據。請注意，由於資料均存放在本地，若您刪除App且未保留備份檔案，我們將無法協助找回您的資料。
+4.2 Your encrypted data and master password information are stored only locally on your device. We do not retain your plaintext data on remote servers.
 
-## 5. 資訊分享與披露
-5.1 除非符合以下有限情況，我們不會將您的任何資訊分享給第三方：
+4.3 You may clear all local data at any time by deleting the vault within the App or uninstalling the App. Please note that since all data is stored locally, if you delete the App without retaining a backup file, we will be unable to help recover your data.
 
-支付與授權服務商：透過應用程式官方下載平台（如 Google Play 商店、Apple App Store 等）處理內購交易與授權狀態查詢；
+## 5. Information Sharing and Disclosure
+5.1 We will not share any of your information with third parties except in the following limited circumstances:
 
-合規要求：依據法律規定、法院判決、政府機關的合法請求，或為保護使用者、我們的合法權益、財產或安全而必須披露。
+Payment and Authorization Service Providers: Handling in-app purchase transactions and authorization status inquiries through official app download platforms (such as Google Play Store, Apple App Store, etc.);
 
-5.2 除上述情形外，我們不會將您的個人資訊披露給任何第三方。
+Compliance Requirements: Disclosure required in accordance with legal provisions, court judgments, lawful requests from government authorities, or to protect the legitimate rights, property, or safety of users or us.
 
-## 6. 使用者權利
-6.1 您對您的本機資料擁有完全的控制權，您可以隨時進行以下操作：
+5.2 Except in the above circumstances, we will not disclose your personal information to any third party.
 
-(i) 透過App介面查閱、修改或刪除您儲存的密碼資料；
+## 6. User Rights
+6.1 You have full control over your local data and may perform the following operations at any time:
 
-(ii) 透過匯出功能備份您的加密資料，或透過匯入功能還原資料；
+(i) View, modify, or delete the password data you have stored through the App interface;
 
-(iii) 透過重新安裝App或清除應用程式資料，完全抹除本機儲存的所有內容。
+(ii) Back up your encrypted data through the export function, or restore data through the import function;
 
-6.2 若您有任何隱私相關疑問，可透過信箱聯繫我們，我們將在合理期限內回覆並協助處理。
+(iii) Completely erase all content stored locally by reinstalling the App or clearing the application data.
 
-## 7. 第三方服務
-7.1 本App內涉及的第三方服務主要為各應用程式商店之基礎服務（用於應用程式發布、更新與內購結帳），相關隱私規範請參閱對應平台（如 Google、Apple 等）的官方隱私權政策。
+6.2 If you have any privacy-related questions, you may contact us by email, and we will respond and assist within a reasonable period.
 
-## 8. 訂閱與支付
-8.1 本App提供一次性購買（One-time Purchase）的 PRO 升級服務，透過應用程式官方下載平台之授權渠道完成交易，所有支付流程均由對應平台加密處理，我們不會收集您的支付卡號、密碼等敏感支付資訊。
+## 7. Third-Party Services
+7.1 The third-party services involved in this App are mainly the basic services of various app stores (used for app publishing, updates, and in-app purchase checkout). For the relevant privacy regulations, please refer to the official privacy policies of the corresponding platforms (such as Google, Apple, etc.).
 
-8.2 內購項目的退款與授權管理均遵循各應用程式商店的官方政策。當您更換設備或重灌App時，可透過App內的「恢復購買」按鈕向對應的應用程式商店重新驗證並恢復您的 PRO 解鎖狀態。
+## 8. Subscription and Payment
+8.1 This App provides a one-time purchase PRO upgrade service, with transactions completed through the authorized channels of the official app download platforms. All payment processes are encrypted and processed by the corresponding platforms, and we will not collect sensitive payment information such as your payment card number or password.
 
-## 9. 責任限制
-9.1 鑑於密碼保險箱的本機加密特性，使用者妥善保管「主密碼」及「備份檔案」為使用者的責任。若因使用者自行遺忘主密碼或丟失備份檔案導致資料無法存取，本App無法進行強制解密或找回。
+8.2 Refunds and authorization management for in-app purchases follow the official policies of the respective app stores. When you change devices or reinstall the App, you may re-verify and restore your PRO unlock status with the corresponding app store through the "Restore Purchase" button within the App.
 
-9.2 在法律允許的最大範圍內，我們對因使用本App所產生的非預期損害賠償責任，最高以您使用本App付費服務所支付的總金額為限（若無付費，則不承擔金錢賠償責任）。
+## 9. Limitation of Liability
+9.1 Given the local encryption nature of the password vault, it is the user's responsibility to properly safeguard the "Master Password" and "backup files." If data becomes inaccessible due to the user forgetting the master password or losing the backup file, this App cannot perform forced decryption or recovery.
 
-## 10. 本政策的變更
-10.1 我們可能不定期更新本隱私政策，更新後的版本將即時發布於本App內或官方更新說明中，並註明新的「最後更新日期」。
+9.2 To the maximum extent permitted by law, our liability for damages arising from the use of this App shall be limited to the total amount you paid for the paid services of this App (if no payment was made, we shall not bear any monetary compensation liability).
 
-10.2 若您在政策更新後繼續使用本App，即視為接受修改後的隱私政策；若您不同意變更內容，請停止使用本App。
+## 10. Changes to This Policy
+10.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or in the official update notes, with a new "Last Updated" date indicated.
+
+10.2 If you continue to use this App after the policy is updated, you are deemed to have accepted the revised Privacy Policy; if you do not agree with the changes, please stop using this App.
