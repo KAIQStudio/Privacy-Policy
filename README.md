@@ -1,5 +1,11 @@
+<label for="language-select">Languages / 語言：</label>
+<select id="language-select" onchange="location = this.value;">
+  <option value="./" selected>English</option>
+  <option value="privacy-zh.md">繁體中文</option>
+</select>
+
+---
 # VaultX Privacy Policy
-Languages: **English**  |  [繁體中文](privacy-zh)
 **Last Updated: September 17, 2026**
 
 ## 1. Introduction
