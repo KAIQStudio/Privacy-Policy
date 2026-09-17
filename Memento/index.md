@@ -1,90 +1,68 @@
-# VaultX Privacy Policy
+# Memento (Motivational Time) Privacy Policy
 **Last Updated: September 17, 2026**
 
 ## 1. Introduction
-1.1 "VaultX" (hereinafter referred to as "this App") is a tool that provides secure password management and data encryption protection, designed to help users securely store and manage various account passwords. We are committed to protecting users' personal information and privacy. This Privacy Policy explains in detail how this App collects, uses, stores, and protects your personal information.
+1.1 "Memento (Motivational Time)" (hereinafter referred to as "this App") is a time management and mindfulness companion tool designed to transform "death anxiety" into "motivation for life and living in the present." We are committed to strictly protecting users' personal privacy and information security. This Privacy Policy explains in detail how this App processes, stores, and protects your personal information.
 
-1.2 Any individual or group (hereinafter referred to as "you" or "user") should carefully read and fully understand all contents of this Privacy Policy before using this App's services. Once you begin using this App, you are deemed to have agreed to be bound by this Policy and the "Terms of Service"; if you do not agree, please stop using this App immediately.
+1.2 Any individual or group (hereinafter referred to as "you" or "user") should carefully read and fully understand all contents of this Privacy Policy before using this App's services. Once you begin using this App, you are deemed to have agreed to be bound by this Policy; if you do not agree, please stop using this App immediately.
 
-1.3 If you have any questions about this Privacy Policy, you may contact us at the following email: kai.q.apps@gmail.com.
+1.3 This App adheres to the core principles of "no login, fully offline, privacy first." All personal demographic data, loved ones' information, and advanced calculation questionnaires you enter in this App are 100% stored only on your device locally. We will never transmit, upload, or back up your personal privacy data to any remote server.
 
-1.4 This App is suitable for users aged 3 and above. If the user is a minor, it is recommended to use this App's services with the accompaniment and consent of a legal guardian to ensure the secure management of account and password data.
+1.4 If you have any questions about this Privacy Policy, you may contact us at the following email: kai.q.apps@gmail.com.
 
-## 2. Information We Collect
-2.1 To provide a secure password vault service, this App follows the principles of least privilege and privacy first. All your passwords and data are encrypted and stored locally on your device. We will not upload your master password or vault plaintext to any external server. The specific types of information collected or processed are as follows:
+1.5 This App is suitable for users aged 3 and above. If the user is a minor, it is recommended to use this App's services with the accompaniment and consent of a legal guardian.
 
-(i) Account and Login Information: This App is designed to operate independently on a local basis, without the need to register a complicated cloud account. Your master password and encryption/decryption keys are securely stored locally through your device's built-in security hardware and encryption mechanisms (such as operating system-level key protection).
+## 2. Types of Information We Process and Store
+This App adopts an ultimate layered experience and low-threshold design, following the principle of minimal data processing. The types of data processed are divided into the following categories:
 
-(ii) Device Information: This includes basic data such as operating system version and App version number, used to ensure the stable operation of the App and adapt to different devices.
+(i) Basic Demographic Information (Required): To generate the basic life time code table, only the "current place of residence/country (or continent region)," "date of birth," and "gender" need to be set upon first launch. The system will automatically compare with the built-in preloaded World Health Organization (WHO) public average life expectancy data for basic calculation.
 
-(iii) Usage Data: This includes anonymized data such as crash reports and feature usage, used only to optimize App stability and fix vulnerabilities.
+(ii) Advanced Calculation Modifier Information (Completely Optional): To improve the personalized accuracy of life expectancy calculations, you may freely choose whether to supplement advanced data, including but not limited to: family longevity genes (parents/grandparents' lifespan), lifestyle habits (smoking, drinking, regular exercise), and major family medical history and other health-related data. The above fields are all optional. If you choose to leave them blank, the system will automatically treat them as a modifier value of 0 years, and will never force the disclosure of any personal privacy.
 
-(iv) In-App Purchases and Transaction Information: If you purchase the PRO unlock upgrade, the related transactions and verification are handled by the official channels of the major app stores. We only receive the purchase status identifier returned by the store (used to unlock the PRO feature) and will not collect any of your financial account or credit card sensitive information.
+(iii) Loved Ones List Information (Optional): You may proactively create and manage exclusive life cards for loved ones (including title, birthday, place of residence, and gender). Such data is also entirely stored on your local device.
 
-2.2 This App may request access to the following device permissions, and you may choose whether to authorize them at your own discretion:
+(iv) Device Information and Anonymous System Diagnostics: This includes basic data such as operating system version and App version number, used to ensure the stable operation of the App and adapt to different devices.
 
-Biometric Permission (if applicable): Used to unlock the vault; refusing authorization does not affect your use of the master password to unlock;
+(v) In-App Purchase and Transaction Status Information: If you choose to upgrade and unlock the PRO professional version, we adopt the third-party authorization service provider RevenueCat (purchases-kmp) to assist with payment verification. Transactions are handled directly by the official app stores (Apple App Store / Google Play Store). We only receive a de-identified purchase status identifier for feature unlocking, and will never collect or store any of your credit card numbers, financial accounts, or other sensitive information.
 
-Storage/File Permission: Used only to export or import encrypted backup files; refusing authorization does not affect the storage of data within the App.
+## 3. Device Permission Description
+This App may request the following device permissions from you when specific functions are triggered. You may choose whether to authorize them at your own discretion:
 
-2.3 All collection and processing of information is based on your explicit consent or the triggering of local security mechanisms. You may clear local data at any time through device settings or options within the App.
+Notification Permission (Notification / Schedule Exact Alarm): Used to send "relative age/generation" and "warm guardian" mindfulness push reminders. Refusing authorization does not affect the calculation and viewing of the App's main code table.
 
-## 3. How Information Is Used
-3.1 The information collected and processed is used only for the following purposes and will not exceed the scope of your authorization:
+Storage/File and Sharing Permission (Storage / Share): Used only to initiate native system sharing (generating motivational invitation cards and phrases) and future data export and backup. Refusing authorization does not affect the storage of data within the App.
 
-(i) To provide the encrypted storage, viewing, import, and export functions of the password vault;
+## 4. How Information Is Used and Disclaimer
+4.1 The information collected and processed is used only for the following purposes:
 
-(ii) To verify the Master Password and protect the security of the vault;
+(i) To provide life countdown, time code table display, over-age conversion, and multiple life hourglass character switching functions;
 
-(iii) To verify the PRO authorization status of in-app purchases from the app store;
+(ii) To calculate the $\Delta$ modifier years of lifestyle habits, family genetics, and health diseases through a pure Kotlin calculation engine;
 
-(iv) To ensure the stable operation of the App, fix vulnerabilities, and optimize the functional experience;
+(iii) To verify the in-app purchase PRO unlock and restore purchase authorization status of the app store;
 
-(v) To comply with applicable laws and regulations and respond to lawful inquiries from competent authorities.
+(iv) To ensure the stable operation of the App, fix vulnerabilities, and send local mindfulness reminder notifications.
 
-3.2 We will never sell, rent, or trade your personal or vault password information to any third party; all core encrypted data is strictly protected by local security mechanisms.
+4.2 Legal and Actuarial Disclaimer: The life expectancy, time code table, and advanced calculation values provided by this App are all based on statistical model projections using demographic data (such as the WHO public data set) and lifestyle factors. They are for reference only for mindful living, cherishing time, and life motivation, and do not constitute any medical diagnosis, professional health consultation, or insurance actuarial basis.
 
-## 4. Data Storage and Security
-4.1 We adopt industry-standard encryption technologies (such as password hashing, strong encryption algorithms, and operating system security hardware-protected keys) and security safeguards to protect your master password and encrypted data from unauthorized access, disclosure, modification, or deletion.
+4.3 We will never sell, rent, trade, or transmit any of your personal data or health-related information to any third party.
 
-4.2 Your encrypted data and master password information are stored only locally on your device. We do not retain your plaintext data on remote servers.
+## 5. Data Storage, Security, and Complete Control
+5.1 100% Local Storage: All your personal settings, loved ones' data, and calculation questionnaires are stored in the local secure database of your device. We will not back up or retain any of your data on remote cloud servers.
 
-4.3 You may clear all local data at any time by deleting the vault within the App or uninstalling the App. Please note that since all data is stored locally, if you delete the App without retaining a backup file, we will be unable to help recover your data.
+5.2 Complete User Control: You may view, modify, or delete your and your loved ones' data at any time within the App interface; you may completely erase all content stored locally at once by clearing the application data or uninstalling the App; if you uninstall the App without using the backup function beforehand, since the data is not uploaded to the cloud, we will be unable to help recover your original local data.
 
-## 5. Information Sharing and Disclosure
-5.1 We will not share any of your information with third parties except in the following limited circumstances:
+## 6. Third-Party Services and Native Sharing
+6.1 In-App Purchase Payment Platform: This App uses the RevenueCat platform to handle in-app purchase authorization and completes checkout through the Apple App Store and Google Play Store. For relevant privacy regulations, please refer to the official policies of the corresponding platforms.
 
-Payment and Authorization Service Providers: Handling in-app purchase transactions and authorization status inquiries through official app download platforms (such as Google Play Store, Apple App Store, etc.);
+6.2 Native Sharing Mechanism: When you use the sharing function within the App to share motivational phrases or invitation cards to third-party social software (such as LINE, Messages, Instagram), the App generates a temporary image file through standard system security channels (Android FileProvider / iOS temporary file) and hands it to the system sharing panel for processing. The App itself does not track your sharing targets or social account information.
 
-Compliance Requirements: Disclosure required in accordance with legal provisions, court judgments, lawful requests from government authorities, or to protect the legitimate rights, property, or safety of users or us.
+## 7. Subscription and Payment (PRO Unlock)
+7.1 This App provides a one-time purchase PRO unlock upgrade service (unlocking unlimited character cards, multiple visual themes, unlimited goal lists, etc.). All payment processes are handled by the app store platforms.
 
-5.2 Except in the above circumstances, we will not disclose your personal information to any third party.
+7.2 Restore Purchases: In accordance with app store review guidelines, when you change devices or reinstall the App, you may click the "Restore Purchases" button on the settings page within the App at any time to re-verify and freely restore your purchased PRO benefits.
 
-## 6. User Rights
-6.1 You have full control over your local data and may perform the following operations at any time:
+## 8. Changes to This Policy
+8.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or in the official store description, with the "Last Updated" date updated.
 
-(i) View, modify, or delete the password data you have stored through the App interface;
-
-(ii) Back up your encrypted data through the export function, or restore data through the import function;
-
-(iii) Completely erase all content stored locally by reinstalling the App or clearing the application data.
-
-6.2 If you have any privacy-related questions, you may contact us by email, and we will respond and assist within a reasonable period.
-
-## 7. Third-Party Services
-7.1 The third-party services involved in this App are mainly the basic services of various app stores (used for app publishing, updates, and in-app purchase checkout). For the relevant privacy regulations, please refer to the official privacy policies of the corresponding platforms (such as Google, Apple, etc.).
-
-## 8. Subscription and Payment
-8.1 This App provides a one-time purchase PRO upgrade service, with transactions completed through the authorized channels of the official app download platforms. All payment processes are encrypted and processed by the corresponding platforms, and we will not collect sensitive payment information such as your payment card number or password.
-
-8.2 Refunds and authorization management for in-app purchases follow the official policies of the respective app stores. When you change devices or reinstall the App, you may re-verify and restore your PRO unlock status with the corresponding app store through the "Restore Purchase" button within the App.
-
-## 9. Limitation of Liability
-9.1 Given the local encryption nature of the password vault, it is the user's responsibility to properly safeguard the "Master Password" and "backup files." If data becomes inaccessible due to the user forgetting the master password or losing the backup file, this App cannot perform forced decryption or recovery.
-
-9.2 To the maximum extent permitted by law, our liability for damages arising from the use of this App shall be limited to the total amount you paid for the paid services of this App (if no payment was made, we shall not bear any monetary compensation liability).
-
-## 10. Changes to This Policy
-10.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or in the official update notes, with a new "Last Updated" date indicated.
-
-10.2 If you continue to use this App after the policy is updated, you are deemed to have accepted the revised Privacy Policy; if you do not agree with the changes, please stop using this App.
+8.2 If you continue to use this App after the policy is updated, you are deemed to have accepted the revised Privacy Policy.
