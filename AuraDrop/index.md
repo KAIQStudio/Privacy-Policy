@@ -80,7 +80,7 @@ Compliance Requirements: Disclosure required in accordance with legal provisions
 
 Formspree: Used to receive and process user customer service feedback. For relevant privacy regulations, please refer to Formspree's official privacy policy;
 
-GitHub Pages: This App's Privacy Policy is published at [https://kaiqstudio.github.io/Privacy-Policy/Memento/](https://kaiqstudio.github.io/Privacy-Policy/Memento/), and related access follows GitHub's privacy regulations.
+GitHub Pages: This App's Privacy Policy is published at [https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/](https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/), and related access follows GitHub's privacy regulations.
 
 ## 8. Limitation of Liability
 8.1 Given that this App adopts a local storage mechanism, it is the user's responsibility to properly safeguard the "backup files." If data becomes inaccessible due to the user deleting the App or losing the backup file, this App cannot assist in recovery.
@@ -88,6 +88,6 @@ GitHub Pages: This App's Privacy Policy is published at [https://kaiqstudio.gith
 8.2 To the maximum extent permitted by law, we shall not bear any monetary compensation liability for unexpected damages arising from the use of this App (this App is a free download service).
 
 ## 9. Changes to This Policy
-9.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or on the official website ([https://kaiqstudio.github.io/Privacy-Policy/Memento/](https://kaiqstudio.github.io/Privacy-Policy/Memento/)), with a new "Last Updated" date indicated.
+9.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or on the official website ([https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/](https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/)), with a new "Last Updated" date indicated.
 
 9.2 If you continue to use this App after the policy is updated, you are deemed to have accepted the revised Privacy Policy; if you do not agree with the changes, please stop using this App.
