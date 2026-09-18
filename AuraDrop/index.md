@@ -23,7 +23,7 @@ Negative Energy Records (Release): The text and recordings (maximum 20 seconds) 
 
 (ii) Device Information: This includes basic data such as operating system version and App version number, used to ensure the stable operation of the App and adapt to different devices;
 
-(iii) Customer Service Message Information: When you use the customer service function through the settings page, the message content you enter will be transmitted through the third-party customer service provider Formspree ([https://formspree.io/f/xoeqgeda](https://formspree.io/f/xoeqgeda)), and we use it only to respond to your technical support requests.
+(iii) Customer Service Message Information: When you use the customer service function through the settings page, the message content you enter will be transmitted through the third-party customer service provider Formspree, and we use it only to respond to your technical support requests.
 
 2.3 This App may request access to the following device permissions, and you may choose whether to authorize them at your own discretion:
 
@@ -58,7 +58,7 @@ Storage/File Permission: Used only to export your positive energy data and voice
 ## 5. Information Sharing and Disclosure
 5.1 We will not share any of your information with third parties except in the following limited circumstances:
 
-Third-Party Customer Service Provider: When you actively use the customer service function, the message information will be transmitted via Formspree ([https://formspree.io/f/xoeqgeda](https://formspree.io/f/xoeqgeda));
+Third-Party Customer Service Provider: When you actively use the customer service function, the message information will be transmitted via Formspree;
 
 Compliance Requirements: Disclosure required in accordance with legal provisions, court judgments, lawful requests from government authorities, or to protect the legitimate rights, property, or safety of users or us.
 
