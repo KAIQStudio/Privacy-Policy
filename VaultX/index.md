@@ -1,90 +1,174 @@
 # VaultX Privacy Policy
-**Last Updated: September 17, 2026**
+
+**Last Updated: September 23, 2026**
 
 ## 1. Introduction
-1.1 "VaultX" (hereinafter referred to as "this App") is a tool that provides secure password management and data encryption protection, designed to help users securely store and manage various account passwords. We are committed to protecting users' personal information and privacy. This Privacy Policy explains in detail how this App collects, uses, stores, and protects your personal information.
 
-1.2 Any individual or group (hereinafter referred to as "you" or "user") should carefully read and fully understand all contents of this Privacy Policy before using this App's services. Once you begin using this App, you are deemed to have agreed to be bound by this Policy and the "Terms of Service"; if you do not agree, please stop using this App immediately.
+1.1 "VaultX" (hereinafter referred to as "this App") is a local text encryption and privacy tool designed to help users encrypt, decrypt, organize, and manage private or sensitive text on their devices. We are committed to protecting user privacy and minimizing the collection and processing of personal information.
 
-1.3 If you have any questions about this Privacy Policy, you may contact us at the following email: kai.q.apps@gmail.com.
+1.2 This Privacy Policy explains how this App handles information, how data is stored and protected, and what choices and rights are available to you when using this App.
 
-1.4 This App is suitable for users aged 3 and above. If the user is a minor, it is recommended to use this App's services with the accompaniment and consent of a legal guardian to ensure the secure management of account and password data.
+1.3 By using this App, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with this Policy, please discontinue use of the App.
 
-## 2. Information We Collect
-2.1 To provide a secure password vault service, this App follows the principles of least privilege and privacy first. All your passwords and data are encrypted and stored locally on your device. We will not upload your master password or vault plaintext to any external server. The specific types of information collected or processed are as follows:
+1.4 If you have any questions about this Privacy Policy, you may contact us at: **kai.q.apps@gmail.com**
 
-(i) Account and Login Information: This App is designed to operate independently on a local basis, without the need to register a complicated cloud account. Your master password and encryption/decryption keys are securely stored locally through your device's built-in security hardware and encryption mechanisms (such as operating system-level key protection).
+## 2. Information and Data We Process
 
-(ii) Device Information: This includes basic data such as operating system version and App version number, used to ensure the stable operation of the App and adapt to different devices.
+2.1 VaultX is designed according to the principles of local-first storage and data minimization. Text that you enter into the App for encryption, decryption, or storage is processed locally on your device. VaultX does not operate a remote server for storing your vault contents and does not upload your plaintext vault content to our servers.
 
-(iii) Usage Data: This includes anonymized data such as crash reports and feature usage, used only to optimize App stability and fix vulnerabilities.
+The following types of information or data may be processed when you use the App:
 
-(iv) In-App Purchases and Transaction Information: If you purchase the PRO unlock upgrade, the related transactions and verification are handled by the official channels of the major app stores. We only receive the purchase status identifier returned by the store (used to unlock the PRO feature) and will not collect any of your financial account or credit card sensitive information.
+(i) **Vault and Text Data:** Text that you choose to encrypt, decrypt, or store in VaultX is processed locally on your device. This may include private notes, passwords, account information, memos, or any other text you choose to enter.
 
-2.2 This App may request access to the following device permissions, and you may choose whether to authorize them at your own discretion:
+(ii) **Master Password and Security Information:** Your Master Password and related security information are handled locally on your device. VaultX uses device and operating-system security mechanisms to help protect locally stored information.
 
-Biometric Permission (if applicable): Used to unlock the vault; refusing authorization does not affect your use of the master password to unlock;
+(iii) **App and Device Information:** Basic technical information necessary for the App to operate correctly, such as the operating system environment and App version, may be processed locally for compatibility and functionality.
 
-Storage/File Permission: Used only to export or import encrypted backup files; refusing authorization does not affect the storage of data within the App.
+(iv) **In-App Purchase Information:** If you purchase the VaultX PRO upgrade, the payment transaction is processed by the applicable app store, such as Google Play or Apple App Store. VaultX may receive information necessary to determine whether the PRO entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or other sensitive payment information.
 
-2.3 All collection and processing of information is based on your explicit consent or the triggering of local security mechanisms. You may clear local data at any time through device settings or options within the App.
+2.2 VaultX may use device capabilities when necessary for specific features:
+
+(i) **Device Authentication:** Certain security-related functions may use the authentication mechanisms provided by your device, such as the device screen lock or other system authentication methods.
+
+(ii) **File Access:** File access may be used when you choose to export an encrypted backup file or import a previously created encrypted backup file. VaultX does not use this capability to upload your vault contents to our servers.
+
+2.3 Because VaultX is designed primarily for local processing, clearing the App's local storage or uninstalling the App may permanently remove locally stored data unless you have separately created and retained an encrypted backup.
 
 ## 3. How Information Is Used
-3.1 The information collected and processed is used only for the following purposes and will not exceed the scope of your authorization:
 
-(i) To provide the encrypted storage, viewing, import, and export functions of the password vault;
+3.1 Information and data processed by VaultX are used only as necessary to provide the App's functions, including:
 
-(ii) To verify the Master Password and protect the security of the vault;
+(i) Encrypting and decrypting text locally on your device;
 
-(iii) To verify the PRO authorization status of in-app purchases from the app store;
+(ii) Creating, organizing, viewing, editing, and deleting your locally stored vault content;
 
-(iv) To ensure the stable operation of the App, fix vulnerabilities, and optimize the functional experience;
+(iii) Protecting access to security-sensitive functions through the Master Password and supported device authentication mechanisms;
 
-(v) To comply with applicable laws and regulations and respond to lawful inquiries from competent authorities.
+(iv) Creating encrypted backup files and restoring data from encrypted backup files;
 
-3.2 We will never sell, rent, or trade your personal or vault password information to any third party; all core encrypted data is strictly protected by local security mechanisms.
+(v) Verifying and restoring your VaultX PRO purchase status through the applicable app store;
 
-## 4. Data Storage and Security
-4.1 We adopt industry-standard encryption technologies (such as password hashing, strong encryption algorithms, and operating system security hardware-protected keys) and security safeguards to protect your master password and encrypted data from unauthorized access, disclosure, modification, or deletion.
+(vi) Maintaining compatibility, security, and proper operation of the App.
 
-4.2 Your encrypted data and master password information are stored only locally on your device. We do not retain your plaintext data on remote servers.
+3.2 We do not sell, rent, or trade your vault contents or personal information to third parties.
 
-4.3 You may clear all local data at any time by deleting the vault within the App or uninstalling the App. Please note that since all data is stored locally, if you delete the App without retaining a backup file, we will be unable to help recover your data.
+3.3 VaultX does not use the contents of your encrypted text for advertising, profiling, or marketing purposes.
 
-## 5. Information Sharing and Disclosure
-5.1 We will not share any of your information with third parties except in the following limited circumstances:
+## 4. Local Storage and Security
 
-Payment and Authorization Service Providers: Handling in-app purchase transactions and authorization status inquiries through official app download platforms (such as Google Play Store, Apple App Store, etc.);
+4.1 VaultX is designed so that your vault contents and encryption operations remain on your device. The App uses encryption and operating-system security mechanisms to help protect locally stored data against unauthorized access.
 
-Compliance Requirements: Disclosure required in accordance with legal provisions, court judgments, lawful requests from government authorities, or to protect the legitimate rights, property, or safety of users or us.
+4.2 Your plaintext vault contents are not stored on servers operated by us. Encryption and decryption of your text are performed locally on your device.
 
-5.2 Except in the above circumstances, we will not disclose your personal information to any third party.
+4.3 VaultX provides encrypted backup and restore functionality. If you choose to export a backup, you are responsible for keeping the exported backup file secure.
 
-## 6. User Rights
-6.1 You have full control over your local data and may perform the following operations at any time:
+4.4 You may delete locally stored content through the App or remove the App's local data through your device settings. Uninstalling the App may also remove locally stored VaultX data.
 
-(i) View, modify, or delete the password data you have stored through the App interface;
+4.5 Because VaultX does not maintain a remote copy of your vault contents, we generally cannot recover locally deleted vault data or a lost encrypted backup file.
 
-(ii) Back up your encrypted data through the export function, or restore data through the import function;
+## 5. Master Password and Account Recovery
 
-(iii) Completely erase all content stored locally by reinstalling the App or clearing the application data.
+5.1 The Master Password is used to protect access to security-sensitive functions within VaultX. You are responsible for maintaining appropriate control over access to your device and your Master Password.
 
-6.2 If you have any privacy-related questions, you may contact us by email, and we will respond and assist within a reasonable period.
+5.2 If you forget your Master Password, VaultX may allow you to reset it after successful verification through the device's supported screen-lock authentication mechanism.
 
-## 7. Third-Party Services
-7.1 The third-party services involved in this App are mainly the basic services of various app stores (used for app publishing, updates, and in-app purchase checkout). For the relevant privacy regulations, please refer to the official privacy policies of the corresponding platforms (such as Google, Apple, etc.).
+5.3 If the required device authentication mechanism is unavailable or has not been configured, resetting the Master Password may require clearing locally stored VaultX data.
 
-## 8. Subscription and Payment
-8.1 This App provides a one-time purchase PRO upgrade service, with transactions completed through the authorized channels of the official app download platforms. All payment processes are encrypted and processed by the corresponding platforms, and we will not collect sensitive payment information such as your payment card number or password.
+5.4 Because VaultX is designed without remote storage of your vault contents or Master Password, we cannot remotely retrieve your Master Password or bypass the security mechanisms of your device.
 
-8.2 Refunds and authorization management for in-app purchases follow the official policies of the respective app stores. When you change devices or reinstall the App, you may re-verify and restore your PRO unlock status with the corresponding app store through the "Restore Purchase" button within the App.
+## 6. Backup and Restore
 
-## 9. Limitation of Liability
-9.1 Given the local encryption nature of the password vault, it is the user's responsibility to properly safeguard the "Master Password" and "backup files." If data becomes inaccessible due to the user forgetting the master password or losing the backup file, this App cannot perform forced decryption or recovery.
+6.1 VaultX allows you to export an encrypted backup file containing supported VaultX data and later import that file to restore your data.
 
-9.2 To the maximum extent permitted by law, our liability for damages arising from the use of this App shall be limited to the total amount you paid for the paid services of this App (if no payment was made, we shall not bear any monetary compensation liability).
+6.2 Exported backup files are under your control. VaultX does not automatically upload exported backup files to our servers.
 
-## 10. Changes to This Policy
-10.1 We may update this Privacy Policy from time to time. The updated version will be published immediately within this App or in the official update notes, with a new "Last Updated" date indicated.
+6.3 You are responsible for securely storing your backup files and ensuring that they remain accessible when needed.
 
-10.2 If you continue to use this App after the policy is updated, you are deemed to have accepted the revised Privacy Policy; if you do not agree with the changes, please stop using this App.
+6.4 If a backup file is lost, deleted, damaged, or otherwise unavailable, we may be unable to recover the data contained in that backup.
+
+## 7. Information Sharing and Disclosure
+
+7.1 VaultX does not share your vault contents with third parties.
+
+7.2 Limited information may be processed by third-party platform providers when necessary to provide specific services, including:
+
+(i) **App Store and Payment Services:** Google Play, Apple App Store, or other authorized app distribution platforms may process purchases, refunds, purchase restoration, and related transaction information according to their own privacy policies.
+
+(ii) **External Services Initiated by You:** If you choose to use an external feature or link provided within the App, such as sending feedback, opening a website, visiting an external channel, sharing content, or opening an app store page, the selected external service may process information according to its own privacy policy.
+
+7.3 We may disclose information if required to do so by applicable law, regulation, legal process, or a valid request from a competent governmental authority. However, because VaultX is designed to store vault contents locally rather than on our servers, we generally do not possess copies of your locally stored vault contents.
+
+## 8. Third-Party Services and External Links
+
+8.1 VaultX may provide links or access to third-party services and external platforms, including app stores, websites, feedback services, and the official KAI_Q Studio Telegram channel.
+
+8.2 The Telegram channel available within VaultX is provided as an external link for users who choose to access KAI_Q Studio updates or related information. VaultX does not require users to join the Telegram channel in order to use the App.
+
+8.3 When you choose to open the Telegram channel, the link is handled by your device through the Telegram application or an external web browser, depending on your device configuration. VaultX does not embed Telegram within the App and does not send your vault contents, encrypted text, Master Password, or locally stored VaultX data to Telegram.
+
+8.4 Your use of Telegram is subject to Telegram's own terms, privacy policy, and data practices. Any information you provide directly to Telegram or through interactions on Telegram is governed by Telegram and is not controlled by VaultX.
+
+8.5 Other external services or links accessed through VaultX are similarly governed by the privacy policies and terms of the applicable third-party providers.
+
+8.6 VaultX is not responsible for the privacy practices, content, availability, or operation of third-party services.
+
+## 9. In-App Purchases
+
+9.1 VaultX offers an optional one-time purchase to unlock PRO features. This is not a recurring subscription unless otherwise clearly stated by the applicable app store at the time of purchase.
+
+9.2 Purchases are processed through the authorized payment system of the applicable app store. We do not directly process or store your payment card details, banking credentials, or app store account password.
+
+9.3 Purchase restoration, refunds, and transaction management are subject to the policies and technical capabilities of the applicable app store.
+
+9.4 When supported, VaultX may verify or restore your PRO entitlement through the applicable app store.
+
+## 10. User Choices and Rights
+
+10.1 Because VaultX primarily stores and processes vault data locally, you maintain direct control over that data through the App and your device.
+
+Depending on the available functions, you may:
+
+(i) View, edit, encrypt, decrypt, or delete locally stored text;
+
+(ii) Create or remove vault categories;
+
+(iii) Export an encrypted backup;
+
+(iv) Import an encrypted backup;
+
+(v) Delete locally stored VaultX data through the App or your device settings;
+
+(vi) Uninstall the App to remove locally stored App data, subject to your device and operating system behavior.
+
+10.2 If you have questions regarding privacy or the handling of information associated with VaultX, you may contact us at **kai.q.apps@gmail.com**.
+
+## 11. Children's Privacy
+
+11.1 VaultX is a general-purpose text encryption utility and is not specifically directed at children.
+
+11.2 We do not knowingly operate a service intended to collect personal information from children through VaultX.
+
+11.3 Parents or legal guardians should supervise a minor's use of security and privacy tools where appropriate under applicable law.
+
+## 12. Data Loss and Security Responsibilities
+
+12.1 You are responsible for maintaining appropriate control over your device, Master Password, device authentication methods, and exported backup files.
+
+12.2 VaultX is designed to protect locally stored information through encryption and device security mechanisms, but no software or security system can guarantee absolute security.
+
+12.3 Because VaultX does not maintain a remote copy of your vault contents, data that is permanently deleted from your device or lost without an available backup may not be recoverable.
+
+## 13. Changes to This Privacy Policy
+
+13.1 We may update this Privacy Policy from time to time to reflect changes to VaultX, legal requirements, security practices, or third-party services.
+
+13.2 When this Privacy Policy is updated, the "Last Updated" date at the top of this document will be revised.
+
+13.3 We encourage you to review this Privacy Policy periodically. Your continued use of VaultX after an updated Privacy Policy becomes effective constitutes your acknowledgement of the updated Policy, to the extent permitted by applicable law.
+
+## 14. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or VaultX's privacy practices, please contact:
+
+**KAI_Q Studio**  
+**Email: kai.q.apps@gmail.com**
