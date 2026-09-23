@@ -75,12 +75,25 @@ Compliance Requirements: Disclosure required in accordance with legal provisions
 
 6.2 If you have any privacy-related questions, you may contact us by email (kai.q.apps@gmail.com), and we will respond and assist within a reasonable period.
 
-## 7. Third-Party Services
-7.1 The third-party services integrated into this App include:
+## 7. Third-Party Services and External Links
 
-Formspree: Used to receive and process user customer service feedback. For relevant privacy regulations, please refer to Formspree's official privacy policy;
+7.1 This App uses or provides access to the following third-party services and external platforms:
 
-GitHub Pages: This App's Privacy Policy is published at [https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/](https://kaiqstudio.github.io/Privacy-Policy/AuraDrop/), and related access follows GitHub's privacy regulations.
+**Formspree:** When you actively use the customer service or feedback function within AuraDrop, the message content you submit is transmitted through Formspree for the purpose of receiving and responding to your inquiry. Please refer to Formspree's own privacy policy for information about how Formspree processes data.
+
+**Google Play:** On Android, Google Play is used for App distribution, updates, and processing the optional one-time PRO purchase. Payment and transaction processing are handled by Google Play. AuraDrop does not directly collect or store your payment card number, banking credentials, or Google account password.
+
+**GitHub Pages:** AuraDrop's Privacy Policy and related legal information may be published through GitHub Pages. When you access these pages, your interaction with GitHub Pages is subject to GitHub's applicable privacy practices.
+
+**Telegram:** AuraDrop provides an external link to the official KAI_Q Studio Telegram channel. Accessing the Telegram channel is optional and is not required to use AuraDrop.
+
+7.2 When you choose to open the Telegram channel, AuraDrop passes the external link to your device for opening through a supported web browser or other compatible application. Telegram is not embedded within AuraDrop.
+
+7.3 AuraDrop does not send your positive energy records, negative energy content, voice recordings, backup data, or other locally stored personal content to Telegram.
+
+7.4 If you choose to access or interact with Telegram, any information processed through Telegram is governed by Telegram's own terms, privacy policy, and data practices.
+
+7.5 Other external links or third-party services that you choose to access through AuraDrop are governed by the privacy policies and terms of the applicable third-party providers. AuraDrop does not control the privacy practices of those third-party services.
 
 ## 8. Limitation of Liability
 8.1 Given that this App adopts a local storage mechanism, it is the user's responsibility to properly safeguard the "backup files." If data becomes inaccessible due to the user deleting the App or losing the backup file, this App cannot assist in recovery.
