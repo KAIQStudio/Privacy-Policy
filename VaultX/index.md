@@ -88,27 +88,38 @@ The following types of information or data may be processed when you use the App
 
 ## 7. Information Sharing and Disclosure
 
-7.1 VaultX does not share your vault contents with third parties.
+7.1 VaultX does not share your vault contents, encrypted text, Master Password, or other locally stored vault data with third parties.
 
-7.2 Limited information may be processed by third-party platform providers when necessary to provide specific services, including:
+7.2 Limited information may be transmitted to or processed by third-party service providers only when necessary to provide specific functions or when you actively choose to use those services:
 
-(i) **App Store and Payment Services:** Google Play, Apple App Store, or other authorized app distribution platforms may process purchases, refunds, purchase restoration, and related transaction information according to their own privacy policies.
+(i) **Formspree:** When you actively use the feedback function within VaultX and submit a message, the content you enter in the feedback form is transmitted through Formspree for the purpose of receiving and responding to your feedback or support request. This transmission occurs only when you choose to submit the form. Your vault contents, encrypted text, Master Password, and other locally stored VaultX data are not sent to Formspree as part of this feedback process.
 
-(ii) **External Services Initiated by You:** If you choose to use an external feature or link provided within the App, such as sending feedback, opening a website, visiting an external channel, sharing content, or opening an app store page, the selected external service may process information according to its own privacy policy.
+(ii) **App Store and Payment Services:** Google Play, Apple App Store, or other authorized app distribution platforms may process purchases, refunds, purchase restoration, and related transaction information according to their own privacy policies. VaultX may receive information necessary to determine whether your PRO entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or app store account password.
+
+(iii) **External Services and Links:** If you choose to open an external link provided within VaultX, such as the KAI_Q Studio Telegram channel, privacy policy page, app store page, website, or other external service, your device may open the relevant third-party application or web browser. Your interaction with that external service is governed by the privacy policy and terms of the applicable third party.
 
 7.3 We may disclose information if required to do so by applicable law, regulation, legal process, or a valid request from a competent governmental authority. However, because VaultX is designed to store vault contents locally rather than on our servers, we generally do not possess copies of your locally stored vault contents.
 
+7.4 We do not sell, rent, or trade your vault contents or personal information to third parties.
+
+
 ## 8. Third-Party Services and External Links
 
-8.1 VaultX may provide links or access to third-party services and external platforms, including app stores, websites, feedback services, and the official KAI_Q Studio Telegram channel.
+8.1 VaultX uses or provides access to certain third-party services and external platforms for specific functions. These may include:
 
-8.2 The Telegram channel available within VaultX is provided as an external link for users who choose to access KAI_Q Studio updates or related information. VaultX does not require users to join the Telegram channel in order to use the App.
+**Formspree:** Used to transmit feedback or support messages that you actively choose to submit through the feedback function within VaultX. Formspree may process the submitted information according to its own privacy policy. VaultX does not use Formspree to transmit your vault contents, encrypted text, Master Password, or other locally stored vault data.
 
-8.3 When you choose to open the Telegram channel, the link is handled by your device through the Telegram application or an external web browser, depending on your device configuration. VaultX does not embed Telegram within the App and does not send your vault contents, encrypted text, Master Password, or locally stored VaultX data to Telegram.
+**Google Play:** On Android, Google Play may be used for App distribution, updates, and processing the optional one-time VaultX PRO purchase. Payment and transaction processing are handled by Google Play. VaultX does not directly collect or store your payment card number, banking credentials, or Google account password.
 
-8.4 Your use of Telegram is subject to Telegram's own terms, privacy policy, and data practices. Any information you provide directly to Telegram or through interactions on Telegram is governed by Telegram and is not controlled by VaultX.
+**Telegram:** VaultX provides an external link to the official KAI_Q Studio Telegram channel. Accessing or joining the Telegram channel is entirely optional and is not required to use VaultX.
 
-8.5 Other external services or links accessed through VaultX are similarly governed by the privacy policies and terms of the applicable third-party providers.
+8.2 When you choose to open the KAI_Q Studio Telegram channel, the link is handled by your device through the Telegram application or an external web browser, depending on your device configuration. Telegram is not embedded within VaultX.
+
+8.3 VaultX does not send your vault contents, encrypted text, Master Password, backup data, or other locally stored VaultX data to Telegram.
+
+8.4 If you choose to access or interact with Telegram, any information processed through Telegram is governed by Telegram's own terms, privacy policy, and data practices.
+
+8.5 VaultX may also provide links to other external services, websites, legal documents, app store pages, or communication channels. When you choose to access an external service, your interaction with that service is governed by the privacy policy and terms of the applicable third-party provider.
 
 8.6 VaultX is not responsible for the privacy practices, content, availability, or operation of third-party services.
 
