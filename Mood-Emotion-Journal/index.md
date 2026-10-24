@@ -1,6 +1,12 @@
+---
+title: Privacy-Policy
+---
+
+<div style="color: #0969da; font-size: 32px; font-weight: 600; line-height: 1.25; margin-bottom: 24px;">Privacy-Policy</div>
+
 # Mood & Emotion Journal Privacy Policy
 
-**Last Updated: October 20, 2026**
+**Last Updated: October 24, 2026**
 
 ## 1. Introduction
 
@@ -12,7 +18,7 @@
 
 1.4 If you have any questions about this Privacy Policy, you may contact us at:
 
-**Email: kai.q.apps@gmail.com**
+**Email: [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**
 
 1.5 Mood & Emotion Journal is not intended to provide medical, psychological, psychiatric, diagnostic, or emergency services. The App is designed as a personal wellness and reflection tool.
 
@@ -135,7 +141,7 @@ Negative Energy content is not intended to become part of your permanent persona
 
 6.4 If you have privacy-related questions or requests, you may contact us at:
 
-**Email: kai.q.apps@gmail.com**
+**Email: [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**
 
 
 ## 7. Third-Party Services and External Links
@@ -209,5 +215,8 @@ Negative Energy content is not intended to become part of your permanent persona
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or Mood & Emotion Journal's privacy practices, please contact:
 
-**KAI_Q Studio**  
-**Email: kai.q.apps@gmail.com**
+<div style="font-size: 24px; font-weight: 600; line-height: 1.5;">
+KAI_Q Studio<br>
+Email: <a href="mailto:contact@kaiqstudio.com">contact@kaiqstudio.com</a><br>
+Official website: <a href="https://kaiqstudio.com/projects/auradrop">https://kaiqstudio.com/projects/auradrop</a>
+</div>
