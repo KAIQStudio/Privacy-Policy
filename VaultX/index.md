@@ -1,3 +1,9 @@
+---
+title: Privacy-Policy
+---
+
+<div style="color: #0969da; font-size: 32px; font-weight: 600; line-height: 1.25; margin-bottom: 24px;">Privacy-Policy</div>
+
 # VaultX Privacy Policy
 
 **Last Updated: September 23, 2026**
@@ -10,7 +16,7 @@
 
 1.3 By using this App, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with this Policy, please discontinue use of the App.
 
-1.4 If you have any questions about this Privacy Policy, you may contact us at: **contact@kaiqstudio.com**
+1.4 If you have any questions about this Privacy Policy, you may contact us at: **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**
 
 ## 2. Information and Data We Process
 
@@ -151,7 +157,7 @@ Depending on the available functions, you may:
 
 (vi) Uninstall the App to remove locally stored App data, subject to your device and operating system behavior.
 
-10.2 If you have questions regarding privacy or the handling of information associated with VaultX, you may contact us at **contact@kaiqstudio.com**.
+10.2 If you have questions regarding privacy or the handling of information associated with VaultX, you may contact us at **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**.
 
 ## 11. Children's Privacy
 
@@ -181,5 +187,8 @@ Depending on the available functions, you may:
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or VaultX's privacy practices, please contact:
 
-**KAI_Q Studio**  
-**Email: contact@kaiqstudio.com**
+<div style="font-size: 24px; font-weight: 600; line-height: 1.5;">
+KAI_Q Studio<br>
+Email: <a href="mailto:contact@kaiqstudio.com">contact@kaiqstudio.com</a><br>
+VaultX Product Page: <a href="https://kaiqstudio.com/projects/vaultx">https://kaiqstudio.com/projects/vaultx</a>
+</div>
