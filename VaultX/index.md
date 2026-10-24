@@ -6,7 +6,7 @@ title: Privacy-Policy
 
 # VaultX Privacy Policy
 
-**Last Updated: September 23, 2026**
+**Last Updated: October 24, 2026**
 
 ## 1. Introduction
 
@@ -190,5 +190,5 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 <div style="font-size: 24px; font-weight: 600; line-height: 1.5;">
 KAI_Q Studio<br>
 Email: <a href="mailto:contact@kaiqstudio.com">contact@kaiqstudio.com</a><br>
-VaultX Product Page: <a href="https://kaiqstudio.com/projects/vaultx">https://kaiqstudio.com/projects/vaultx</a>
+Official website: <a href="https://kaiqstudio.com/projects/vaultx">https://kaiqstudio.com/projects/vaultx</a>
 </div>
