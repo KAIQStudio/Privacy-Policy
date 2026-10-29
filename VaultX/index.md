@@ -6,7 +6,7 @@ title: Privacy-Policy
 
 # VaultX Privacy Policy
 
-**Last Updated: October 24, 2026**
+**Last Updated: October 30, 2026**
 
 ## 1. Introduction
 
@@ -28,7 +28,7 @@ The following types of information or data may be processed when you use the App
 
 (ii) **Master Password and Security Information:** Your Master Password and related security information are handled locally on your device. VaultX uses device and operating-system security mechanisms to help protect locally stored information.
 
-(iii) **App and Device Information:** Basic technical information necessary for the App to operate correctly, such as the operating system environment and App version, may be processed locally for compatibility and functionality.
+(iii) **App and Device Information and Update Checks:** Basic technical information may be processed locally for compatibility and functionality. When the App performs an automatic version check, it requests update information from a GitHub Pages-hosted resource and includes the platform, application environment, and current App version in that request. The hosting provider may also process standard connection information, such as an IP address and request metadata, according to its own practices. Vault contents, plaintext text, Master Passwords, and encrypted backups are not included in the App-defined version-check fields.
 
 (iv) **In-App Purchase Information:** If you purchase the VaultX PRO upgrade, the payment transaction is processed by the applicable app store, such as Google Play or Apple App Store. VaultX may receive information necessary to determine whether the PRO entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or other sensitive payment information.
 
@@ -38,7 +38,9 @@ The following types of information or data may be processed when you use the App
 
 (ii) **File Access:** File access may be used when you choose to export an encrypted backup file or import a previously created encrypted backup file. VaultX does not use this capability to upload your vault contents to our servers.
 
-2.3 Because VaultX is designed primarily for local processing, clearing the App's local storage or uninstalling the App may permanently remove locally stored data unless you have separately created and retained an encrypted backup.
+2.3 **Optional Feedback and Support Information:** If you choose to submit feedback within the App, the message you enter and any email address you optionally provide are transmitted to Formspree for handling your request. Please do not include your Master Password, vault contents, or other sensitive information in support messages.
+
+2.4 Because VaultX is designed primarily for local processing, clearing the App's local storage or uninstalling the App may permanently remove locally stored data unless you have separately created and retained an encrypted backup.
 
 ## 3. How Information Is Used
 
@@ -54,7 +56,9 @@ The following types of information or data may be processed when you use the App
 
 (v) Verifying and restoring your VaultX PRO purchase status through the applicable app store;
 
-(vi) Maintaining compatibility, security, and proper operation of the App.
+(vi) Maintaining compatibility, security, and proper operation of the App, including checking for available updates;
+
+(vii) Receiving, reviewing, and responding to feedback or support requests that you voluntarily submit.
 
 3.2 We do not sell, rent, or trade your vault contents or personal information to third parties.
 
@@ -96,13 +100,15 @@ The following types of information or data may be processed when you use the App
 
 7.1 VaultX does not share your vault contents, encrypted text, Master Password, or other locally stored vault data with third parties.
 
-7.2 Limited information may be transmitted to or processed by third-party service providers only when necessary to provide specific functions or when you actively choose to use those services:
+7.2 Limited information may be transmitted to or processed by third-party service providers for specific App functions, including automatic version checks and feedback you choose to submit:
 
-(i) **Formspree:** When you actively use the feedback function within VaultX and submit a message, the content you enter in the feedback form is transmitted through Formspree for the purpose of receiving and responding to your feedback or support request. This transmission occurs only when you choose to submit the form. Your vault contents, encrypted text, Master Password, and other locally stored VaultX data are not sent to Formspree as part of this feedback process.
+(i) **Formspree:** When you actively use the feedback function within VaultX and submit a message, the message and any email address you optionally provide are transmitted through Formspree for the purpose of receiving and responding to your feedback or support request. This transmission occurs only when you choose to submit the form. Your vault contents, encrypted text, Master Password, and other locally stored VaultX data are not sent to Formspree as part of this feedback process.
 
 (ii) **App Store and Payment Services:** Google Play, Apple App Store, or other authorized app distribution platforms may process purchases, refunds, purchase restoration, and related transaction information according to their own privacy policies. VaultX may receive information necessary to determine whether your PRO entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or app store account password.
 
-(iii) **External Services and Links:** If you choose to open an external link provided within VaultX, such as the KAI_Q Studio Telegram channel, privacy policy page, app store page, website, or other external service, your device may open the relevant third-party application or web browser. Your interaction with that external service is governed by the privacy policy and terms of the applicable third party.
+(iii) **GitHub Pages Version Checks:** The App automatically requests version information from a GitHub Pages-hosted resource. The request includes the platform, application environment, and current App version. GitHub or its hosting infrastructure may process network connection information and request logs under its own policies. The App does not intentionally include vault contents, Master Passwords, or backup files in these requests.
+
+(iv) **External Services and Links:** If you choose to open an external link provided within VaultX, such as the KAI_Q Studio Telegram channel, privacy policy page, app store page, website, or other external service, your device may open the relevant third-party application or web browser. Your interaction with that external service is governed by the privacy policy and terms of the applicable third party.
 
 7.3 We may disclose information if required to do so by applicable law, regulation, legal process, or a valid request from a competent governmental authority. However, because VaultX is designed to store vault contents locally rather than on our servers, we generally do not possess copies of your locally stored vault contents.
 
@@ -113,7 +119,9 @@ The following types of information or data may be processed when you use the App
 
 8.1 VaultX uses or provides access to certain third-party services and external platforms for specific functions. These may include:
 
-**Formspree:** Used to transmit feedback or support messages that you actively choose to submit through the feedback function within VaultX. Formspree may process the submitted information according to its own privacy policy. VaultX does not use Formspree to transmit your vault contents, encrypted text, Master Password, or other locally stored vault data.
+**Formspree:** Used to transmit feedback or support messages, including an optional email address, that you actively choose to submit through the feedback function within VaultX. Formspree may process the submitted information according to its own privacy policy. VaultX does not use Formspree to transmit your vault contents, encrypted text, Master Password, or other locally stored vault data.
+
+**GitHub Pages:** Used to host version information requested automatically by VaultX. Requests include the platform, application environment, and current App version; GitHub or its hosting infrastructure may process standard network connection data and request logs.
 
 **Google Play:** On Android, Google Play may be used for App distribution, updates, and processing the optional one-time VaultX PRO purchase. Payment and transaction processing are handled by Google Play. VaultX does not directly collect or store your payment card number, banking credentials, or Google account password.
 
@@ -128,6 +136,16 @@ The following types of information or data may be processed when you use the App
 8.5 VaultX may also provide links to other external services, websites, legal documents, app store pages, or communication channels. When you choose to access an external service, your interaction with that service is governed by the privacy policy and terms of the applicable third-party provider.
 
 8.6 VaultX is not responsible for the privacy practices, content, availability, or operation of third-party services.
+
+## 8A. Retention and Deletion of Support and Update-Check Data
+
+8A.1 VaultX does not operate a remote vault-storage service. Deleting locally stored vault content or uninstalling the App does not automatically delete feedback or support messages previously submitted to Formspree, or records maintained by third-party service providers.
+
+8A.2 Feedback messages and optional email addresses submitted through Formspree may be retained as needed to review and respond to requests, maintain support records, address abuse or security issues, or comply with applicable legal obligations. Actual storage duration and deletion capabilities may depend on the Formspree account configuration and any email or other services used to receive or retain support submissions. We do not promise a fixed retention period without confirming those arrangements.
+
+8A.3 You may request access to, correction of, or deletion of support information associated with you by contacting **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**. Please identify the relevant support submission without including passwords or vault contents. We will review and respond to requests under applicable law, and will delete information within our control where required or appropriate, subject to lawful retention requirements. For information controlled by third-party providers, we will take reasonable steps within our available controls or direct you to the provider where appropriate.
+
+8A.4 Version-check requests may generate connection logs held by GitHub or its infrastructure. The handling and retention of those logs are governed by the applicable provider's practices and are not necessarily under our direct control. You may contact us with questions about the information sent by the App.
 
 ## 9. In-App Purchases
 
@@ -157,7 +175,9 @@ Depending on the available functions, you may:
 
 (vi) Uninstall the App to remove locally stored App data, subject to your device and operating system behavior.
 
-10.2 If you have questions regarding privacy or the handling of information associated with VaultX, you may contact us at **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**.
+10.2 To request deletion or review of feedback and support information you have submitted, see Section 8A. Deleting the App does not automatically erase support submissions already received by third-party services.
+
+10.3 If you have questions regarding privacy or the handling of information associated with VaultX, you may contact us at **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**.
 
 ## 11. Children's Privacy
 
