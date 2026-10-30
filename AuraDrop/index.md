@@ -1,6 +1,6 @@
 # Mood & Emotion Journal Privacy Policy
 
-**Last Updated: October 20, 2026**
+**Last Updated: October 30, 2026**
 
 ## 1. Introduction
 
@@ -41,7 +41,7 @@ Negative Energy content is not intended to become part of your permanent persona
 
 (iii) **Negative Energy Text and Voice Content:** Text or voice content that you intentionally provide for the emotional release experience. This content is used for the immediate release experience and is not intended for permanent storage.
 
-(iv) **Customer Service and Feedback Information:** If you choose to use the customer service or feedback form within Mood & Emotion Journal, the message content you intentionally submit is transmitted through the third-party service Formspree so that we can receive and respond to your inquiry or feedback.
+(iv) **Customer Service and Feedback Information:** If you choose to use the customer service or feedback form within Mood & Emotion Journal, the message content and any email address you optionally provide are transmitted through the third-party service Formspree so that we can receive and respond to your inquiry or feedback.
 
 (v) **Purchase Information:** If you choose to purchase the optional Mood & Emotion Journal PRO upgrade, Google Play processes the payment transaction. Mood & Emotion Journal may receive information necessary to determine whether the PRO entitlement has been purchased or restored. We do not directly collect or store your payment card number, banking credentials, or Google account password.
 
@@ -100,7 +100,7 @@ Negative Energy content is not intended to become part of your permanent persona
 
 5.2 Limited information may be transmitted to or processed by third-party service providers in the following circumstances:
 
-(i) **Formspree:** When you actively submit a customer service or feedback message through Mood & Emotion Journal, the content that you enter into the form is transmitted through Formspree so that we can receive and respond to your message. Your Positive Energy records, Negative Energy content, voice recordings, and backup contents are not included in this transmission as part of the feedback process.
+(i) **Formspree:** When you actively submit a customer service or feedback message through Mood & Emotion Journal, the content that you enter into the form and any email address you optionally provide are transmitted through Formspree so that we can receive and respond to your message. Your Positive Energy records, Negative Energy content, voice recordings, and backup contents are not included in this transmission as part of the feedback process.
 
 (ii) **Google Play:** Google Play processes the optional Mood & Emotion Journal PRO purchase and related payment transactions. Google Play may also process information associated with purchase verification, restoration, refunds, and other transaction-related functions according to Google's own policies.
 
@@ -137,6 +137,8 @@ Negative Energy content is not intended to become part of your permanent persona
 
 **Email: kai.q.apps@gmail.com**
 
+6.5 You may request access to, correction of, or deletion of feedback or support information associated with you by emailing the address above. Please provide enough information to identify the relevant submission, such as the approximate submission date and the email address used, if any. Do not include passwords, private journal entries, or voice recordings in your request. We will review your request and delete information within our control where appropriate or required by applicable law, subject to lawful retention obligations. Where third-party providers control relevant records, we will take reasonable steps using available controls or explain the applicable provider process.
+
 
 ## 7. Third-Party Services and External Links
 
@@ -160,6 +162,20 @@ Negative Energy content is not intended to become part of your permanent persona
 
 7.6 Mood & Emotion Journal is not responsible for the privacy practices, content, availability, or operation of third-party services.
 
+
+## 7A. Retention and Deletion of Support and Technical Data
+
+7A.1 Mood & Emotion Journal does not operate a remote storage service for your personal journal entries or voice recordings. Deleting local App data or uninstalling the App does not automatically delete previously submitted support messages or records retained by third-party providers.
+
+7A.2 Feedback messages and optional email addresses submitted through Formspree may be retained for the time reasonably necessary to review and respond to requests, maintain relevant support records, prevent abuse, address security concerns, or comply with legal obligations. Actual retention depends on the Formspree account configuration and any connected email services. We do not promise a fixed deletion period that has not been verified.
+
+7A.3 To request deletion of feedback or support information, email **kai.q.apps@gmail.com** with sufficient details to identify the submission. We will review and respond to requests under applicable law. Deletion may be limited where records must be retained for legal, security, or dispute-resolution reasons, or where they are controlled by third-party providers.
+
+7A.4 The App may automatically check for available updates using a GitHub Pages-hosted resource. Such requests may include basic application or environment information and standard connection metadata, including IP addresses processed by the hosting provider. GitHub or its infrastructure may retain connection logs according to its own practices. These requests do not include your journal entries, voice recordings, or backup contents.
+
+7A.5 Google Play and associated libraries may process purchase-related technical diagnostics, transaction status, and device or application technical information in connection with purchases and service reliability. Such processing is subject to the relevant Google services and their applicable policies. Mood & Emotion Journal does not receive your payment card number or banking credentials.
+
+---
 
 ## 8. Mood & Emotion Journal PRO and In-App Purchases
 
