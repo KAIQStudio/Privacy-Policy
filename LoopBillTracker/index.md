@@ -1,203 +1,356 @@
 ---
-title: Privacy-Policy
+title: LoopBillTracker Privacy Policy
 ---
-
-<div style="color: #0969da; font-size: 32px; font-weight: 600; line-height: 1.25; margin-bottom: 24px;">Privacy-Policy</div>
 
 # LoopBillTracker Privacy Policy
 
-**Last Updated: October 24, 2026**
+**Last Updated: October 30, 2026**
 
-## 1. Introduction
+## 1. About This Policy
 
-1.1 "LoopBillTracker" (hereinafter referred to as "this App") is a bill cycle tracking and payment reminder tool designed to help users record, organize, and manage recurring bills, subscriptions, due dates, payment status, and related expense information on their devices. We are committed to protecting user privacy and minimizing the collection and processing of personal information.
+LoopBillTracker is developed and provided by **KAI_Q Studio** (“we,” “us,” or “our”).
 
-1.2 This Privacy Policy explains how this App handles information, how data is stored and protected, and what choices and rights are available to you when using this App.
+LoopBillTracker (“the App”) helps you record bills, manage recurring bill cycles, track payment status, and receive reminders. This Privacy Policy explains what information the App processes, when information may leave your device, how information is retained, and the choices available to you.
 
-1.3 By using this App, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with this Policy, please discontinue use of the App.
+This Policy covers LoopBillTracker and the support and online services described below. Some features may depend on your App version, device, operating system, or distribution platform. A description of an optional feature does not mean that the feature is available in every version.
 
-1.4 If you have any questions about this Privacy Policy, you may contact us at: **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**
+Reading this Policy does not replace any permission request or separate consent required by applicable law.
 
-## 2. Information and Data We Process
+For privacy questions or requests, contact:
 
-2.1 LoopBillTracker is designed according to the principles of local-first storage and data minimization. Bill records, payment reminders, categories, notes, and related information that you enter into the App are processed primarily on your device. LoopBillTracker does not operate a remote server for storing your bill records and does not upload your bill contents to our servers.
+**KAI_Q Studio**  
+Email: [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)  
+Website: [https://kaiqstudio.com/projects/loopbilltracker](https://kaiqstudio.com/projects/loopbilltracker)
 
-The following types of information or data may be processed when you use the App:
+## 2. Local-First Operation
 
-(i) **Bill and Payment Data:** Information that you choose to enter into LoopBillTracker, such as bill names, due dates, payment amounts, payment status, payment methods, payment sources, categories, notes, recurring cycles, and reminder settings.
+LoopBillTracker stores and processes your bill records primarily on your device.
 
-(ii) **Financial Reference Data:** Optional information used to help you understand or organize your bills, such as currency selection, exchange-rate related settings, monthly expense summaries, or statistics generated from the bill records you enter.
+You do not need to create a LoopBillTracker account to use the current App. We do not operate a cloud account or cloud synchronization service for your bill records, and the App does not automatically upload your bill database to us.
 
-(iii) **App and Device Information:** Basic technical information necessary for the App to operate correctly, such as the operating system environment, App version, language setting, device notification settings, and compatibility information.
+Information may leave your device when an online function is used, when you choose a cloud-backed destination for an exported file, or when you submit information to a support channel or external service. These situations are explained below.
 
-(iv) **In-App Purchase Information:** If you purchase the LoopBillTracker PRO upgrade or lifetime unlock, the payment transaction is processed by the applicable app store, such as Google Play or Apple App Store. LoopBillTracker may receive information necessary to determine whether the PRO entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or other sensitive payment information.
+## 3. Information the App Processes
 
-2.2 LoopBillTracker may use device capabilities when necessary for specific features:
+### 3.1 Information You Enter
 
-(i) **Notifications:** The App may use your device's notification system to send bill due-date reminders, overdue reminders, or related payment reminder alerts according to the reminder settings you choose.
+The App processes information you choose to enter, including:
 
-(ii) **File Access:** File access may be used when you choose to export a backup file, import a previously created backup file, or manage supported data transfer files. LoopBillTracker does not use this capability to upload your bill records to our servers.
+- Bill names, amounts, currencies, due dates, and recurring schedules.
+- Payment status and payment history.
+- Payment-source names and other organizational labels.
+- Notes and reminder preferences.
+- Exchange rates and related currency settings.
+- App preferences, such as language, appearance, and display settings.
 
-(iii) **Device Authentication:** If supported and enabled, certain functions may use authentication mechanisms provided by your device, such as device screen lock or other system authentication methods, to help protect access to locally stored information.
+Bill records and notes may contain personal or financial information, depending on what you enter.
 
-2.3 Because LoopBillTracker is designed primarily for local processing, clearing the App's local storage or uninstalling the App may permanently remove locally stored data unless you have separately created and retained a backup.
+Payment-source labels are used to organize your records. The App does not require your bank login, payment-card security code, or online banking password. Please do not enter these credentials into bill names, notes, or other free-text fields.
 
-## 3. How Information Is Used
+### 3.2 Information Generated on Your Device
 
-3.1 Information and data processed by LoopBillTracker are used only as necessary to provide the App's functions, including:
+The App may generate information from your records, including:
 
-(i) Creating, organizing, viewing, editing, and deleting your bill records;
+- Upcoming and overdue bill lists.
+- Payment summaries and bill-cycle history.
+- Currency conversions using your configured rates.
+- Monthly equivalent estimates and other expense summaries.
+- Information needed to schedule, update, or cancel local reminders.
 
-(ii) Calculating upcoming bills, overdue bills, known future expenses, and payment summaries;
+These calculations are performed on your device. They do not confirm that a payment has actually been completed.
 
-(iii) Managing recurring bill cycles, payment status, categories, payment methods, and payment sources;
+### 3.3 Technical Information
 
-(iv) Sending local reminders or notifications for upcoming or overdue bills;
+The App uses technical information needed for its functions, such as:
 
-(v) Creating backup files and restoring data from backup files;
+- App version.
+- Device date, time, and time zone.
+- Language and appearance preferences.
+- Notification permission and notification-channel status.
+- Operating-system capabilities needed for compatibility.
 
-(vi) Verifying and restoring your LoopBillTracker PRO or lifetime unlock purchase status through the applicable app store;
+Using this information locally does not mean that it is uploaded to us.
 
-(vii) Maintaining compatibility, security, and proper operation of the App.
+Online requests also expose certain connection information to the service receiving the request, as described in Section 5.
 
-3.2 We do not sell, rent, or trade your bill records or personal information to third parties.
+## 4. Why Information Is Used
 
-3.3 LoopBillTracker does not use your bill contents, payment records, or financial information for advertising, profiling, or marketing purposes.
+The App processes information to:
 
-## 4. Local Storage and Security
+- Create, display, edit, and delete bill records.
+- Manage recurring bill cycles and payment status.
+- Calculate bill summaries and estimates.
+- Schedule and display local reminders.
+- Export and restore backup files.
+- Apply your App preferences.
+- Retrieve App update information.
+- Respond to support requests you choose to submit.
+- Verify or restore purchase entitlements where a supported purchase feature is available.
 
-4.1 LoopBillTracker is designed so that your bill records and related App data remain primarily on your device. The App uses operating-system storage and security mechanisms to help protect locally stored data against unauthorized access.
+We do not sell or rent your personal information.
 
-4.2 Your bill records are not stored on servers operated by us. Data processing for bill tracking, reminders, summaries, and statistics is performed primarily on your device.
+We do not use your bill records for advertising, cross-app tracking, or marketing profiles.
 
-4.3 LoopBillTracker may provide backup and restore functionality. If you choose to export a backup, you are responsible for keeping the exported backup file secure.
+## 5. Network Connections and Third-Party Services
 
-4.4 You may delete locally stored content through the App or remove the App's local data through your device settings. Uninstalling the App may also remove locally stored LoopBillTracker data.
+### 5.1 App Update Checks
 
-4.5 Because LoopBillTracker does not maintain a remote copy of your bill records, we generally cannot recover locally deleted bill data or a lost backup file.
+The Android App includes an update-checking function that retrieves public version information over HTTPS from a KAI_Q Studio endpoint hosted on GitHub Pages.
 
-## 5. Bill Records and Financial Information
+This request is used to determine whether an App update is available and, where applicable, provide an update link.
 
-5.1 LoopBillTracker helps you record and manage bill-related information. The App is not a bank, payment processor, accounting service, tax advisor, financial advisor, or credit service.
+The update request does not include your bill records, payment history, notes, backup files, bank credentials, or an App-generated unique device identifier.
 
-5.2 The App does not make payments on your behalf, transfer money, access your bank account, or automatically pay your bills.
+As with other internet connections, the hosting provider receives the network information needed to handle the request. This can include your IP address, request time, requested resource, and technical connection or HTTP information.
 
-5.3 Any bill amounts, due dates, categories, payment status, exchange-rate information, or expense summaries shown in the App are based on the information you enter or the settings you choose.
+GitHub and its infrastructure providers may process connection information for hosting, security, and service operations under their own policies.
 
-5.4 You are responsible for verifying the accuracy of your bill records, payment deadlines, amounts, and payment status. LoopBillTracker is intended to assist with organization and reminders, but it does not guarantee that a bill will be paid on time.
+GitHub Privacy Statement:  
+[https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
-## 6. Backup and Restore
+### 5.2 Privacy Policy and Other Web Pages
 
-6.1 LoopBillTracker may allow you to export a backup file containing supported LoopBillTracker data and later import that file to restore your data.
+Opening this Privacy Policy, our website, an App store page, or another external link may connect your browser or another application to the relevant service.
 
-6.2 Exported backup files are under your control. LoopBillTracker does not automatically upload exported backup files to our servers.
+The destination service may receive connection information and process information according to its own privacy policy. Opening a link does not automatically send your local bill database to that destination.
 
-6.3 You are responsible for securely storing your backup files and ensuring that they remain accessible when needed.
+### 5.3 Support Messages and Formspree
 
-6.4 If a backup file is lost, deleted, damaged, or otherwise unavailable, we may be unable to recover the data contained in that backup.
+If your version provides a feedback form that uses Formspree, information is transmitted when you choose to submit the form.
 
-## 7. Information Sharing and Disclosure
+The transmitted information includes the content you enter into the form and any contact details you provide. Formspree may also process technical information associated with the submission, such as IP address and request metadata, under its own privacy policy.
 
-7.1 LoopBillTracker does not share your bill records, payment records, notes, backup data, or other locally stored App data with third parties.
+If you contact us by email, we and our email service providers process your email address, message, and any attachments you send.
 
-7.2 Limited information may be transmitted to or processed by third-party service providers only when necessary to provide specific functions or when you actively choose to use those services:
+The App does not automatically attach your bill database or backup files to a support request. However, information you include in a message, screenshot, or attachment will be disclosed to the recipients of that request.
 
-(i) **Formspree:** When you actively use the feedback function within LoopBillTracker and submit a message, the content you enter in the feedback form is transmitted through Formspree for the purpose of receiving and responding to your feedback or support request. This transmission occurs only when you choose to submit the form. Your bill records, payment records, notes, backup data, and other locally stored LoopBillTracker data are not sent to Formspree as part of this feedback process.
+Please do not send passwords, full payment-card details, bank login credentials, or unnecessary financial information. Remove or obscure sensitive details in screenshots and attachments before sending them.
 
-(ii) **App Store and Payment Services:** Google Play, Apple App Store, or other authorized app distribution platforms may process purchases, refunds, purchase restoration, and related transaction information according to their own privacy policies. LoopBillTracker may receive information necessary to determine whether your PRO or lifetime unlock entitlement is active or has been purchased. We do not directly collect or store your payment card number, banking credentials, or app store account password.
+Support information is used to respond to your request, investigate the reported issue, and maintain support records.
 
-(iii) **External Services and Links:** If you choose to open an external link provided within LoopBillTracker, such as the KAI_Q Studio Telegram channel, privacy policy page, app store page, website, or other external service, your device may open the relevant third-party application or web browser. Your interaction with that external service is governed by the privacy policy and terms of the applicable third party.
+Formspree Privacy Policy:  
+[https://formspree.io/legal/privacy-policy/](https://formspree.io/legal/privacy-policy/)
 
-7.3 We may disclose information if required to do so by applicable law, regulation, legal process, or a valid request from a competent governmental authority. However, because LoopBillTracker is designed to store bill records locally rather than on our servers, we generally do not possess copies of your locally stored bill records.
+### 5.4 App Stores and Purchases
 
-7.4 We do not sell, rent, or trade your bill records or personal information to third parties.
+App stores may process App downloads, updates, purchases, refunds, and purchase restoration under their own terms and privacy policies.
 
-## 8. Third-Party Services and External Links
+If a supported PRO or lifetime-unlock purchase is available, the App may process the purchase status and identifiers needed to verify or restore the entitlement.
 
-8.1 LoopBillTracker uses or provides access to certain third-party services and external platforms for specific functions. These may include:
+Payment processing is handled by the applicable App store. We do not receive your full payment-card number, card security code, bank login credentials, or App store password through the App’s purchase process.
 
-**Formspree:** Used to transmit feedback or support messages that you actively choose to submit through the feedback function within LoopBillTracker. Formspree may process the submitted information according to its own privacy policy. LoopBillTracker does not use Formspree to transmit your bill records, payment records, notes, backup data, or other locally stored App data.
+Purchase availability and terms are shown in the applicable App version and purchase screen.
 
-**Google Play:** On Android, Google Play may be used for App distribution, updates, and processing the optional one-time LoopBillTracker PRO or lifetime unlock purchase. Payment and transaction processing are handled by Google Play. LoopBillTracker does not directly collect or store your payment card number, banking credentials, or Google account password.
+Google Privacy Policy:  
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-**Telegram:** LoopBillTracker may provide an external link to the official KAI_Q Studio Telegram channel. Accessing or joining the Telegram channel is entirely optional and is not required to use LoopBillTracker.
+If you use a version distributed through another platform, that platform’s privacy policy also applies to its services.
 
-8.2 When you choose to open the KAI_Q Studio Telegram channel, the link is handled by your device through the Telegram application or an external web browser, depending on your device configuration. Telegram is not embedded within LoopBillTracker.
+### 5.5 Telegram and Other External Channels
 
-8.3 LoopBillTracker does not send your bill records, payment records, notes, backup data, or other locally stored LoopBillTracker data to Telegram.
+If the App provides a link to the KAI_Q Studio Telegram channel, opening or joining the channel is optional.
 
-8.4 If you choose to access or interact with Telegram, any information processed through Telegram is governed by Telegram's own terms, privacy policy, and data practices.
+Telegram is an external service. The App does not automatically send your bill records, payment history, notes, or backup files to Telegram.
 
-8.5 LoopBillTracker may also provide links to other external services, websites, legal documents, app store pages, or communication channels. When you choose to access an external service, your interaction with that service is governed by the privacy policy and terms of the applicable third-party provider.
+Information you voluntarily post or send through Telegram is processed under Telegram’s policies and may be visible to other participants depending on the channel or conversation.
 
-8.6 LoopBillTracker is not responsible for the privacy practices, content, availability, or operation of third-party services.
+Telegram Privacy Policy:  
+[https://telegram.org/privacy](https://telegram.org/privacy)
 
-## 9. In-App Purchases
+## 6. Permissions and Device Capabilities
 
-9.1 LoopBillTracker may offer an optional one-time purchase to unlock PRO features, such as increasing or removing the limit on active bill records or enabling other premium functions. This is not a recurring subscription unless otherwise clearly stated by the applicable app store at the time of purchase.
+### 6.1 Notifications
 
-9.2 Purchases are processed through the authorized payment system of the applicable app store. We do not directly process or store your payment card details, banking credentials, or app store account password.
+On supported Android versions, the App requests notification permission before it can display notifications that require that permission.
 
-9.3 Purchase restoration, refunds, and transaction management are subject to the policies and technical capabilities of the applicable app store.
+The App uses notifications for bill reminders according to your settings. Depending on your settings and the device’s notification controls, a reminder may display bill-related information.
 
-9.4 When supported, LoopBillTracker may verify or restore your PRO or lifetime unlock entitlement through the applicable app store.
+You can manage notification permission, notification channels, and lock-screen visibility in your device settings.
 
-## 10. User Choices and Rights
+Denying or disabling notifications prevents affected reminders from being displayed, but does not prevent you from viewing or editing your bill records.
 
-10.1 Because LoopBillTracker primarily stores and processes bill data locally, you maintain direct control over that data through the App and your device.
+Reminder delivery may be affected by battery restrictions, operating-system scheduling, device settings, or manufacturer behavior.
 
-Depending on the available functions, you may:
+### 6.2 File Selection
 
-(i) View, edit, or delete locally stored bill records;
+Backup export and import use the system file picker.
 
-(ii) Create, edit, or remove bill categories, payment methods, payment sources, and reminder settings;
+You choose the destination for an exported backup and the file to import. This does not give the App unrestricted access to all files on your device.
 
-(iii) Mark bills as paid or unpaid;
+If you select a cloud-backed file provider, that provider may upload, synchronize, retain, or otherwise process the selected file under its own settings and privacy policy.
 
-(iv) Enable, disable, or modify bill reminders and notifications;
+### 6.3 Restart and Time Changes
 
-(v) Export a backup;
+The Android App may receive system events such as device restart, App update, or date and time-zone changes to maintain reminder scheduling.
 
-(vi) Import a backup;
+Receiving these events does not upload your bill records to us.
 
-(vii) Delete locally stored LoopBillTracker data through the App or your device settings;
+### 6.4 Other Sensitive Permissions
 
-(viii) Uninstall the App to remove locally stored App data, subject to your device and operating system behavior.
+The current Android App does not request access to your contacts, location, SMS messages, call logs, microphone, camera, or unrestricted device storage.
 
-10.2 If you have questions regarding privacy or the handling of information associated with LoopBillTracker, you may contact us at **[contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**.
+It does not use these capabilities to retrieve bill information or monitor your financial activity.
 
-## 11. Children's Privacy
+## 7. Backup and Restore
 
-11.1 LoopBillTracker is a general-purpose bill tracking and reminder utility and is not specifically directed at children.
+### 7.1 Backup Contents
 
-11.2 We do not knowingly operate a service intended to collect personal information from children through LoopBillTracker.
+When you choose to export a backup, the file may contain supported App data, including bill records, recurring schedules, payment history, payment sources, currency settings, and preferences.
 
-11.3 Parents or legal guardians should supervise a minor's use of financial organization and reminder tools where appropriate under applicable law.
+A backup may therefore contain personal or sensitive financial information.
 
-## 12. Data Loss and User Responsibilities
+### 7.2 Backup Encryption
 
-12.1 You are responsible for maintaining appropriate control over your device, locally stored bill records, notification settings, backup files, and any financial information you choose to enter into the App.
+Backup files exported by the current App are JSON files and are **not encrypted or password-protected by LoopBillTracker**.
 
-12.2 LoopBillTracker is designed to help you organize bill information and reminders, but no software, reminder system, or notification system can guarantee absolute accuracy, availability, or delivery.
+Anyone who obtains a readable copy of a backup file may be able to read its contents.
 
-12.3 Because LoopBillTracker does not maintain a remote copy of your bill records, data that is permanently deleted from your device or lost without an available backup may not be recoverable.
+Store backups in a secure location. If additional protection is needed, use an appropriate encrypted storage service or encryption tool before sharing or transferring the file.
 
-12.4 You are responsible for confirming actual payment status with your bank, payment provider, bill issuer, or other relevant service provider. LoopBillTracker does not confirm whether a payment has actually been completed.
+### 7.3 Where Backups Are Stored
 
-## 13. Changes to This Privacy Policy
+The App writes an exported backup to the destination you select through the system file picker.
 
-13.1 We may update this Privacy Policy from time to time to reflect changes to LoopBillTracker, legal requirements, security practices, or third-party services.
+The App does not automatically send the backup to a KAI_Q Studio server.
 
-13.2 When this Privacy Policy is updated, the "Last Updated" date at the top of this document will be revised.
+If you select a cloud storage service or another external provider, the file may leave your device. That provider’s security, retention, sharing, and deletion settings apply to its copy.
 
-13.3 We encourage you to review this Privacy Policy periodically. Your continued use of LoopBillTracker after an updated Privacy Policy becomes effective constitutes your acknowledgement of the updated Policy, to the extent permitted by applicable law.
+### 7.4 Restore
 
-## 14. Contact Us
+When you choose a backup file to restore, the App reads and validates the selected file and processes its contents on your device.
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or LoopBillTracker's privacy practices, please contact:
+Restoring a backup may change the records stored in the App, as described by the restore confirmation shown in your version.
 
-<div style="font-size: 24px; font-weight: 600; line-height: 1.5;">
-KAI_Q Studio<br>
-Email: <a href="mailto:contact@kaiqstudio.com">contact@kaiqstudio.com</a><br>
-Official website: <a href="https://kaiqstudio.com/projects/loopbilltracker">https://kaiqstudio.com/projects/loopbilltracker</a>
-</div>
+Only import backup files from sources you trust.
+
+### 7.5 Deleting Backups
+
+Deleting records inside the App, clearing App storage, or uninstalling the App does not necessarily delete previously exported backups.
+
+You must separately delete backup copies from their storage locations, including cloud storage, shared folders, other devices, trash folders, and version history where applicable.
+
+### 7.6 Operating-System Backup and Device Transfer
+
+The current Android App disables standard Android automatic backup through its App configuration.
+
+However, device manufacturers, operating-system versions, and device-transfer tools may handle migration differently. This setting does not guarantee that no external device-transfer mechanism can copy App data.
+
+Review your device’s backup and migration settings when transferring or disposing of a device.
+
+## 8. Storage and Security
+
+Local App data is stored using the device’s application storage and operating-system security mechanisms.
+
+The App’s storage protection depends in part on your device security, screen lock, operating-system updates, and whether the device has been modified or compromised.
+
+We do not claim that the current App database has a separate App-managed encryption layer. Exported backup files are subject to the limitations described in Section 7.
+
+The App uses HTTPS for its update-information request.
+
+No storage system, device, or transmission method can guarantee absolute security. Protect your device, keep its software updated, and avoid sharing sensitive backup files through unsecured channels.
+
+## 9. Information Sharing
+
+We do not automatically disclose your local bill database to advertisers, data brokers, Formspree, Telegram, or an App store.
+
+Information may nevertheless be disclosed in the following circumstances:
+
+- You export a backup to a destination you choose.
+- You include information in a support message, screenshot, or attachment.
+- You interact with an external service.
+- A hosting or service provider processes the information needed to provide the online function described in this Policy.
+- We are legally required to disclose information that we actually hold.
+
+We generally do not possess your local bill records unless you choose to send them to us.
+
+Service providers remain responsible for their own data practices, and we remain responsible for the processing we carry out or arrange.
+
+## 10. Retention and Deletion
+
+### 10.1 Local App Data
+
+Local records remain on your device until you delete them, clear the App’s storage, uninstall the App, or otherwise remove them through available device functions.
+
+Some records may be retained as payment or cycle history when required by the App’s record-management behavior. Archiving a record is not the same as permanently deleting all associated data.
+
+Clearing App storage removes locally stored App data, subject to operating-system behavior. It does not delete external backups or information held by external services.
+
+### 10.2 Support Information
+
+If you contact us, we retain correspondence for as long as reasonably necessary to respond, investigate the issue, maintain relevant support records, and meet applicable legal obligations.
+
+You may request deletion of support information we hold by contacting us. We may retain information where necessary for legal obligations, security, or the establishment or defense of legal claims.
+
+### 10.3 Third-Party Records
+
+Hosting logs, App store transactions, cloud backups, and other third-party records follow the retention and deletion practices of the relevant provider.
+
+We cannot delete records independently controlled by an App store, your cloud storage provider, or another external service. Contact that provider where necessary.
+
+### 10.4 Recovery Limitations
+
+Because we do not maintain a cloud copy of your bill database, we generally cannot recover deleted local records or lost backup files.
+
+## 11. Your Choices and Privacy Rights
+
+Depending on your App version and applicable law, you can:
+
+- View and edit your bill records.
+- Use available delete or archive functions.
+- Change reminder and notification settings.
+- Export and restore supported data.
+- Clear local App storage through device settings.
+- Delete exported backups from the locations where you stored them.
+- Choose whether to submit a support request or open an external link.
+
+Depending on your location, you may also have rights to request access, correction, deletion, restriction, objection, or portability regarding personal information we hold.
+
+To make a request, email [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com). We may request information reasonably necessary to verify your request.
+
+We cannot access or remotely delete bill records that exist only on your device.
+
+Where processing requires your consent, you may withdraw that consent through the relevant controls or by contacting us. Withdrawal does not affect processing lawfully performed before withdrawal.
+
+Where applicable, you may raise a concern with your local data-protection authority.
+
+## 12. International Processing
+
+Your bill database is processed locally as described in this Policy.
+
+When you use online services, submit a support request, or choose a cloud-backed file destination, the relevant provider may process information in countries other than your own.
+
+Applicable protections depend on the service and the relevant legal requirements. Refer to the provider’s privacy policy for details about its processing locations and transfer arrangements.
+
+## 13. Children’s Privacy
+
+LoopBillTracker is a general-purpose bill-management utility and is not specifically directed at children.
+
+We do not knowingly solicit personal information from children through our support channels.
+
+If you believe that a child has provided personal information to us in circumstances requiring parental consent, contact us so that we can review and address the matter.
+
+## 14. Financial Information and Reminders
+
+LoopBillTracker is an organizational tool. It is not a bank, payment processor, credit provider, or financial advisory service.
+
+The App does not access your bank account, initiate payments, transfer money, or automatically verify whether a bill has been paid.
+
+Amounts, payment status, currency conversions, and summaries depend on the information and settings available in the App. Some values are estimates.
+
+You remain responsible for confirming bill amounts, due dates, and actual payment status with the relevant bill issuer or payment provider.
+
+## 15. Changes to This Policy
+
+We may update this Policy when the App’s functions, data practices, service providers, or legal requirements change.
+
+The revised Policy will show a new “Last Updated” date.
+
+For material changes, we will provide additional notice where required by applicable law. If a new activity requires permission or consent, we will obtain it before carrying out that activity.
+
+## 16. Contact Us
+
+For privacy questions, concerns, or requests, contact:
+
+**KAI_Q Studio**  
+Email: [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)  
+Official website: [https://kaiqstudio.com/projects/loopbilltracker](https://kaiqstudio.com/projects/loopbilltracker)
