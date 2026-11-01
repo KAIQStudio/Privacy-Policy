@@ -4,7 +4,7 @@ title: LoopBillTracker Privacy Policy
 
 # LoopBillTracker Privacy Policy
 
-**Last Updated: October 30, 2026**
+**Last Updated: November 1, 2026**
 
 ## 1. About This Policy
 
@@ -156,6 +156,19 @@ Information you voluntarily post or send through Telegram is processed under Tel
 
 Telegram Privacy Policy:  
 [https://telegram.org/privacy](https://telegram.org/privacy)
+
+### 5.6 Google Play Billing and SDK Diagnostics
+
+The Android App includes the Google Play Billing library and its supporting Google DataTransport components. The initial non-purchasing testing release does not enable the purchase action, but the App may still connect to Google Play to read store availability, product information, and purchase ownership status. Disabling the purchase action does not disable these store connections.
+
+These SDKs can process operational and diagnostic events related to the store connection and API requests, including success or error information, App and SDK versions, and technical device and connection information. Supporting transport components can include device model and operating-system build information, language and country settings, time-zone offset, network type, and App version with diagnostic events. Events may be queued on the device and transmitted to Google over an encrypted connection. Receiving services also receive connection information needed to handle the request, such as an IP address.
+
+We do not attach your local bill database, bill notes, backup files, bank credentials, or support-form message to these diagnostic events. These SDK connections are separate from any support message you choose to submit. Google processes the information under its applicable service terms and privacy policy.
+
+If a later version enables purchase verification, the App may process the purchase identifiers and verification information needed for that feature. Availability and the applicable disclosures must be checked in that version; the initial testing release is not a claim that purchase verification has already been deployed.
+
+Google Privacy Policy:  
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ## 6. Permissions and Device Capabilities
 
