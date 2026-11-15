@@ -12,7 +12,7 @@
 
 1.4 If you have any questions about this Privacy Policy, you may contact us at:
 
-**Email: kai.q.apps@gmail.com**
+**Email: contact@kaiqstudio.com*
 
 1.5 Mood & Emotion Journal is not intended to provide medical, psychological, psychiatric, diagnostic, or emergency services. The App is designed as a personal wellness and reflection tool.
 
@@ -135,7 +135,7 @@ Negative Energy content is not intended to become part of your permanent persona
 
 6.4 If you have privacy-related questions or requests, you may contact us at:
 
-**Email: kai.q.apps@gmail.com**
+**Email: contact@kaiqstudio.com**
 
 6.5 You may request access to, correction of, or deletion of feedback or support information associated with you by emailing the address above. Please provide enough information to identify the relevant submission, such as the approximate submission date and the email address used, if any. Do not include passwords, private journal entries, or voice recordings in your request. We will review your request and delete information within our control where appropriate or required by applicable law, subject to lawful retention obligations. Where third-party providers control relevant records, we will take reasonable steps using available controls or explain the applicable provider process.
 
@@ -169,7 +169,7 @@ Negative Energy content is not intended to become part of your permanent persona
 
 7A.2 Feedback messages and optional email addresses submitted through Formspree may be retained for the time reasonably necessary to review and respond to requests, maintain relevant support records, prevent abuse, address security concerns, or comply with legal obligations. Actual retention depends on the Formspree account configuration and any connected email services. We do not promise a fixed deletion period that has not been verified.
 
-7A.3 To request deletion of feedback or support information, email **kai.q.apps@gmail.com** with sufficient details to identify the submission. We will review and respond to requests under applicable law. Deletion may be limited where records must be retained for legal, security, or dispute-resolution reasons, or where they are controlled by third-party providers.
+7A.3 To request deletion of feedback or support information, email **contact@kaiqstudio.com** with sufficient details to identify the submission. We will review and respond to requests under applicable law. Deletion may be limited where records must be retained for legal, security, or dispute-resolution reasons, or where they are controlled by third-party providers.
 
 7A.4 The App may automatically check for available updates using a GitHub Pages-hosted resource. Such requests may include basic application or environment information and standard connection metadata, including IP addresses processed by the hosting provider. GitHub or its infrastructure may retain connection logs according to its own practices. These requests do not include your journal entries, voice recordings, or backup contents.
 
@@ -226,4 +226,4 @@ Negative Energy content is not intended to become part of your permanent persona
 If you have any questions, concerns, or requests regarding this Privacy Policy or Mood & Emotion Journal's privacy practices, please contact:
 
 **KAI_Q Studio**  
-**Email: kai.q.apps@gmail.com**
+**Email: contact@kaiqstudio.com**
