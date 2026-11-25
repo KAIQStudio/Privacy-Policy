@@ -3,15 +3,15 @@
 Privacy-Policy
 ---
 
-# Car Log Privacy Policy
+# Car Passport Privacy Policy
 
 **Last Updated: November 24, 2026**
 
 ## 1. Introduction
 
-1.1 "Car Log" (hereinafter referred to as "this App") is an application provided by KAI_Q Studio ("we," "us," or "our") for personal vehicle history and document management. Its features include vehicle profiles, mileage records, maintenance and repair records, service provider information, vehicle documents, ticket records, recorded expenses, on-device text recognition, search, and date reminder records.
+1.1 "Car Passport" (hereinafter referred to as "this App") is an application provided by KAI_Q Studio ("we," "us," or "our") for personal vehicle history and document management. Its features include vehicle profiles, mileage records, maintenance and repair records, service provider information, vehicle documents, ticket records, recorded expenses, on-device text recognition, search, and date reminder records.
 
-1.2 This Privacy Policy explains how Car Log accesses, processes, stores, protects, and, where applicable, transmits information when you use the App.
+1.2 This Privacy Policy explains how Car Passport accesses, processes, stores, protects, and, where applicable, transmits information when you use the App.
 
 1.3 This Policy describes our data practices. Where a feature requires permission or consent, we request it separately before the relevant access or processing. Describing an optional or future service in this Policy does not enable that service in your installed version.
 
@@ -19,35 +19,35 @@ Privacy-Policy
 
 **Email: [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)**
 
-1.5 Car Log is designed for personal record keeping. You decide which vehicle information and documents to enter or import. Only provide information that you are entitled to use, particularly where an original document contains another person's information.
+1.5 Car Passport is designed for personal record keeping. You decide which vehicle information and documents to enter or import. Only provide information that you are entitled to use, particularly where an original document contains another person's information.
 
-1.6 Car Log does not require an account with us for its core local features. It does not require access to your installed application catalog or Android Usage Access. Recording an expense does not initiate a payment or require you to provide payment card credentials to us.
+1.6 Car Passport does not require an account with us for its core local features. It does not require access to your installed application catalog or Android Usage Access. Recording an expense does not initiate a payment or require you to provide payment card credentials to us.
 
 ## 2. Information and Data We Process
 
-2.1 Car Log follows a local-first approach. Vehicle records, original files, recognized text, recorded expenses, and preferences are stored and processed on your device. Information can leave the App when you select an external file provider, open an original in another application, visit an external service, or send us information. Platform and third-party services may also process information under their own applicable practices.
+2.1 Car Passport follows a local-first approach. Vehicle records, original files, recognized text, recorded expenses, and preferences are stored and processed on your device. Information can leave the App when you select an external file provider, open an original in another application, visit an external service, or send us information. Platform and third-party services may also process information under their own applicable practices.
 
 ### Vehicle Profiles and Service History
 
-Car Log processes vehicle details that you choose to enter, such as a vehicle name, type, brand, model, year, license plate, vehicle identification number (VIN), mileage, and recorded dates. Optional fields may be left blank.
+Car Passport processes vehicle details that you choose to enter, such as a vehicle name, type, brand, model, year, license plate, vehicle identification number (VIN), mileage, and recorded dates. Optional fields may be left blank.
 
 The App also stores maintenance and repair events, work items, parts, notes, service provider details, recorded payments, and relationships between these records. These support your history, search, and expense summaries.
 
 ### Original Documents and On-Device Text Recognition
 
-You may import photographs, receipts, insurance documents, registration records, inspection documents, purchase or warranty documents, ticket documents, and other files. Car Log retains a copy in its private storage, together with information such as the file name, type, size, and an integrity hash.
+You may import photographs, receipts, insurance documents, registration records, inspection documents, purchase or warranty documents, ticket documents, and other files. Car Passport retains a copy in its private storage, together with information such as the file name, type, size, and an integrity hash.
 
-Original files may contain names, addresses, telephone numbers, signatures, payment details, policy numbers, VINs, license plates, or image metadata such as location information. Car Log does not automatically redact this information or remove metadata from retained originals.
+Original files may contain names, addresses, telephone numbers, signatures, payment details, policy numbers, VINs, license plates, or image metadata such as location information. Car Passport does not automatically redact this information or remove metadata from retained originals.
 
-Optional optical character recognition (OCR) uses an on-device engine and a bundled English recognition model. Car Log does not send originals or recognized text to a cloud OCR or generative AI service for recognition. Recognized text and its history are stored separately from fields you confirm. Interface language availability does not mean that OCR supports the same languages or every document format.
+Optional optical character recognition (OCR) uses an on-device engine and a bundled English recognition model. Car Passport does not send originals or recognized text to a cloud OCR or generative AI service for recognition. Recognized text and its history are stored separately from fields you confirm. Interface language availability does not mean that OCR supports the same languages or every document format.
 
 ### Tickets, Recorded Expenses, and Date Reminders
 
-Car Log processes ticket details, amounts due, payment entries, dates, status choices, and related documents that you enter. Expense totals use recorded payments and keep different currencies separate. The App does not pay tickets, process your vehicle-related bills, or verify payment with a bank, insurer, repair shop, or public authority.
+Car Passport processes ticket details, amounts due, payment entries, dates, status choices, and related documents that you enter. Expense totals use recorded payments and keep different currencies separate. The App does not pay tickets, process your vehicle-related bills, or verify payment with a bank, insurer, repair shop, or public authority.
 
 You may save date reminder records and advance-notice preferences. System notification delivery is not enabled in the current version described here; saving a reminder record does not mean that a notification has been scheduled or will be delivered.
 
-2.2 The types of information or data that may be processed when you use Car Log include:
+2.2 The types of information or data that may be processed when you use Car Passport include:
 
 (i) **Vehicle Profile Information:** Vehicle names, types, brands, models, years, license plates, VINs, mileage, units, recorded dates, next-service mileage references, and archive status that you enter.
 
@@ -73,15 +73,15 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 (xii) **Update Check Information:** No update-service endpoint is configured in the current version described here. When an update service becomes available, its request data and relevant hosting practices will be disclosed. Visiting an external website or store page can independently disclose ordinary connection information to that service.
 
-2.3 Car Log may use certain device capabilities when necessary to provide its features:
+2.3 Car Passport may use certain device capabilities when necessary to provide its features:
 
 (i) **System File and Photo Selection:** The App reads files that you select through supported Android selection mechanisms and copies selected originals into its private storage. This does not require scanning your entire photo library or the private storage of other applications.
 
-(ii) **Camera Capture:** When you request a photograph, Car Log can invoke a compatible camera application through Android and receive the resulting file. The camera application and Android manage their own permissions and may apply their own storage or synchronization settings.
+(ii) **Camera Capture:** When you request a photograph, Car Passport can invoke a compatible camera application through Android and receive the resulting file. The camera application and Android manage their own permissions and may apply their own storage or synchronization settings.
 
 (iii) **Notifications:** System notification delivery is not currently enabled. If introduced, the App will explain the feature and request notification permission where required before using it. Existing reminder records do not themselves grant that permission or enable delivery.
 
-(iv) **Opening Original Files:** When you choose to open an original, Car Log makes that selected file readable to the receiving application through Android's supported sharing of file access. The receiving application may read, retain, upload, or otherwise handle the file under its own practices.
+(iv) **Opening Original Files:** When you choose to open an original, Car Passport makes that selected file readable to the receiving application through Android's supported sharing of file access. The receiving application may read, retain, upload, or otherwise handle the file under its own practices.
 
 (v) **Local Storage and Text Recognition:** The App uses its private database and file storage for your records, originals, OCR text, preferences, and recovery information. Recognition runs locally and does not require a cloud recognition account.
 
@@ -89,13 +89,13 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 2.4 You may cancel file selection or camera capture and use manual entry instead. You may choose not to run OCR or open a file externally. Manage any permissions granted to the App, camera applications, file providers, and receiving applications through Android settings.
 
-2.5 Car Log's core features do not require your contacts, microphone, installed application catalog, Usage Access, or device location permissions. Addresses, locations, and other sensitive details may nevertheless be present in information you enter or files you import; the absence of location permission does not remove that content.
+2.5 Car Passport's core features do not require your contacts, microphone, installed application catalog, Usage Access, or device location permissions. Addresses, locations, and other sensitive details may nevertheless be present in information you enter or files you import; the absence of location permission does not remove that content.
 
-2.6 Car Log does not automatically upload your vehicle database, original documents, OCR text, or expense records to a storage or synchronization server operated by us. It does not provide automatic cloud synchronization or remote AI analysis of those records. This statement does not mean that an external service or integrated platform component never processes connection or technical information.
+2.6 Car Passport does not automatically upload your vehicle database, original documents, OCR text, or expense records to a storage or synchronization server operated by us. It does not provide automatic cloud synchronization or remote AI analysis of those records. This statement does not mean that an external service or integrated platform component never processes connection or technical information.
 
 ## 3. How Information Is Used
 
-3.1 Information and data processed by Car Log are used as necessary to provide its functions, including:
+3.1 Information and data processed by Car Passport are used as necessary to provide its functions, including:
 
 (i) Creating and displaying vehicle profiles and archive status;
 
@@ -135,7 +135,7 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 4.1 Vehicle profiles, mileage, service history, provider details, ticket and payment records, documents, retained originals, OCR text, reminder records, and preferences are stored in the App's private database or file storage on your device.
 
-4.2 Car Log does not operate a remote account service for automatically storing, recovering, or synchronizing your vehicle database or original documents.
+4.2 Car Passport does not operate a remote account service for automatically storing, recovering, or synchronizing your vehicle database or original documents.
 
 4.3 Saved records, originals, and OCR history are retained for your ongoing record keeping. They are not automatically removed merely because a vehicle is archived or a document expires. Recovery files may also remain while a failed or interrupted operation needs attention.
 
@@ -145,31 +145,31 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 4.6 Manual backup, restoration, and CSV export are not currently available. Do not rely on this Policy, archiving, or local recovery records as evidence that a separate recoverable backup exists. The contents and protection of any future backup or export feature will be described when it is provided.
 
-4.7 Private App storage and operating-system isolation do not mean that Car Log has separately password-encrypted every database or original file. Protect access to your device and review the sensitivity of information contained in your documents.
+4.7 Private App storage and operating-system isolation do not mean that Car Passport has separately password-encrypted every database or original file. Protect access to your device and review the sensitivity of information contained in your documents.
 
 4.8 If you import a file from a cloud drive, or open an original in another application, the selected provider or receiving application may process or synchronize that file under its own settings. Car Log does not control independently retained copies.
 
-4.9 Uninstalling Car Log or clearing its storage through Android may remove local records, originals, OCR history, preferences, and recovery information. Source files outside the App, externally copied files, support correspondence, and store transaction records are managed separately and may remain.
+4.9 Uninstalling Car Passport or clearing its storage through Android may remove local records, originals, OCR history, preferences, and recovery information. Source files outside the App, externally copied files, support correspondence, and store transaction records are managed separately and may remain.
 
-4.10 Car Log configures Android backup and data-extraction rules to exclude its App data from automatic cloud backup and device transfer. Operating-system, manufacturer, and device-transfer behavior can vary. We do not maintain a remotely recoverable copy of your local records and cannot guarantee recovery after device loss, storage removal, or uninstalling the App.
+4.10 Car Passport configures Android backup and data-extraction rules to exclude its App data from automatic cloud backup and device transfer. Operating-system, manufacturer, and device-transfer behavior can vary. We do not maintain a remotely recoverable copy of your local records and cannot guarantee recovery after device loss, storage removal, or uninstalling the App.
 
 4.11 Store purchase handling is separate from your vehicle records. The current version does not enable purchasing or provide an active Pro entitlement cache. Local transaction-processing safeguards prepared for store integration do not make a vehicle data file proof of purchase.
 
 4.12 Support messages and contact information under our control are retained for as long as reasonably necessary to respond, handle follow-up matters, and meet applicable legal or security obligations. You may request deletion using the contact details in this Policy. Service providers apply their own retention practices to information under their control.
 
-4.13 Website, email, support, and any enabled update-service providers may retain connection or anti-abuse logs under their applicable practices. These are separate from the vehicle records and OCR text retained locally by Car Log.
+4.13 Website, email, support, and any enabled update-service providers may retain connection or anti-abuse logs under their applicable practices. These are separate from the vehicle records and OCR text retained locally by Car Passport.
 
 4.14 We use safeguards appropriate to the functions involved, including operating-system application isolation, controlled file access, integrity checks, and HTTPS for App-controlled network requests. Security also depends on your device and external services. Integrity hashes help detect file changes; they do not encrypt or anonymize the contents of an original.
 
 ## 5. Information Sharing and Disclosure
 
-5.1 Car Log does not automatically share your local vehicle records, originals, OCR text, service history, ticket information, or expense records with third parties as part of its core record-keeping functions.
+5.1 Car Passport does not automatically share your local vehicle records, originals, OCR text, service history, ticket information, or expense records with third parties as part of its core record-keeping functions.
 
 5.2 Information may be transmitted to or processed by other providers in the following circumstances:
 
 (i) **Formspree and Support Email Services:** Information you intentionally send to the support email is processed by the relevant email services so that we can receive and answer it. A Car Log-specific Formspree form is not currently configured. If such a form is provided, its submission practices will be explained before use. Local records and originals are not automatically attached to support requests. [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/)
 
-(ii) **Google Play:** Google Play and Google platform services process information under Google's applicable policies. In versions with enabled purchasing, Google Play handles Pro transactions and related checks or restoration. Purchasing is not currently enabled. Car Log's app-level code does not send vehicle documents or OCR text to Google as purchase-verification content. [Google Privacy Policy](https://policies.google.com/privacy)
+(ii) **Google Play:** Google Play and Google platform services process information under Google's applicable policies. In versions with enabled purchasing, Google Play handles Pro transactions and related checks or restoration. Purchasing is not currently enabled. Car Passport's app-level code does not send vehicle documents or OCR text to Google as purchase-verification content. [Google Privacy Policy](https://policies.google.com/privacy)
 
 (iii) **User-Initiated File Access:** A file provider or an application you select to open an original may receive file contents and related metadata. Manual backup, restore, and CSV export are not currently available. Selecting an external file provider or viewer is separate from App-operated cloud synchronization.
 
@@ -189,7 +189,7 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 ## 6. User Rights and Choices
 
-6.1 Car Log gives you choices over your local records and optional actions. Depending on the available feature, you may:
+6.1 Car Passport gives you choices over your local records and optional actions. Depending on the available feature, you may:
 
 (i) Create, view, and edit vehicle profiles and mileage records;
 
@@ -211,15 +211,15 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 (x) Choose whether to open an original externally, visit a website or channel, or send support information;
 
-(xi) Clear local App storage or uninstall Car Log through Android, taking account of the resulting data loss and any separately retained copies.
+(xi) Clear local App storage or uninstall Car Passport through Android, taking account of the resulting data loss and any separately retained copies.
 
-6.2 Core local record keeping does not require an account with us. You may use manual entry without importing documents or running OCR. Canceling an optional external action does not authorize Car Log to transmit the underlying records by another route.
+6.2 Core local record keeping does not require an account with us. You may use manual entry without importing documents or running OCR. Canceling an optional external action does not authorize Car Passport to transmit the underlying records by another route.
 
-6.3 Editing a confirmed field does not remove the original document or earlier OCR output. Archiving is not deletion. Clearing Car Log's storage does not delete source files, records held by another application, or information already sent to an external provider.
+6.3 Editing a confirmed field does not remove the original document or earlier OCR output. Archiving is not deletion. Clearing Car Passport's storage does not delete source files, records held by another application, or information already sent to an external provider.
 
 6.4 Opening our website or Telegram channel is optional. The destination may receive connection information when opened, even if you do not submit a message. You control information that you choose to send by email or through any support form made available.
 
-6.5 Car Log's Free and Pro design differs only in the number of active, unarchived vehicles: Free supports one and Pro is intended to support an unlimited number. All six themes and other delivered features are shared. Backup, export, notifications, or purchases that are not enabled in the current version are not made available by this Policy.
+6.5 Car Passport's Free and Pro design differs only in the number of active, unarchived vehicles: Free supports one and Pro is intended to support an unlimited number. All six themes and other delivered features are shared. Backup, export, notifications, or purchases that are not enabled in the current version are not made available by this Policy.
 
 6.6 Depending on your location and applicable law, you may have rights to request access to, correction of, deletion of, or a copy of personal information under our control, or to object to or restrict certain processing. You may also withdraw consent where processing relies on consent or raise a concern with the relevant data protection authority.
 
@@ -233,31 +233,31 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 ## 7. Third-Party Services and External Links
 
-7.1 Car Log includes or provides access to certain third-party components and services for specific functions.
+7.1 Car Passport includes or provides access to certain third-party components and services for specific functions.
 
-**Formspree:** A Car Log-specific Formspree support form is not currently configured. If introduced, the form will explain the submission and relevant provider practices before use. Providing this policy link does not mean that a Formspree form is currently operating for Car Log. [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/)
+**Formspree:** A Car Passport-specific Formspree support form is not currently configured. If introduced, the form will explain the submission and relevant provider practices before use. Providing this policy link does not mean that a Formspree form is currently operating for Car Passport. [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/)
 
 **Google Play:** Purchasing and restoration are currently disabled. Google components are included for platform support and planned store integration. Their presence means local storage should not be interpreted as a guarantee that platform or SDK technical information is never processed. Vehicle documents and OCR text are not supplied by Car Log as purchase-verification content. Google's applicable privacy practices govern its services. [Google Privacy Policy](https://policies.google.com/privacy)
 
-**Website, Email, and Update Hosting Providers:** Accessing our website or policy pages, or sending support email, can involve hosting and email providers and generate connection or security logs. No Car Log update endpoint is currently configured. Your local vehicle database is separate from these services.
+**Website, Email, and Update Hosting Providers:** Accessing our website or policy pages, or sending support email, can involve hosting and email providers and generate connection or security logs. No Car Passport update endpoint is currently configured. Your local vehicle database is separate from these services.
 
-**Telegram:** Car Log provides an external link to the KAI_Q Studio channel. Opening or joining it is optional. Telegram handles your interactions under its applicable terms and privacy practices. [Telegram Privacy Policy](https://telegram.org/privacy)
+**Telegram:** Car Passport provides an external link to the KAI_Q Studio channel. Opening or joining it is optional. Telegram handles your interactions under its applicable terms and privacy practices. [Telegram Privacy Policy](https://telegram.org/privacy)
 
 **File and Storage Providers:** Android's file selection and external-opening mechanisms may involve local or cloud providers and receiving applications. Their storage, synchronization, and handling of files are governed by their own terms and settings.
 
-7.2 External links are passed to a supported browser or compatible application. Car Log does not embed the Telegram channel as an in-App chat or operate a Telegram account on your behalf.
+7.2 External links are passed to a supported browser or compatible application. Car Passport does not embed the Telegram channel as an in-App chat or operate a Telegram account on your behalf.
 
-7.3 Car Log does not automatically attach your vehicle records, original documents, OCR text, or payment entries when opening the Telegram channel or our website.
+7.3 Car Passport does not automatically attach your vehicle records, original documents, OCR text, or payment entries when opening the Telegram channel or our website.
 
-7.4 Review the policies of an external service or receiving application before providing information or opening a sensitive original. The receiving service may retain information independently of Car Log.
+7.4 Review the policies of an external service or receiving application before providing information or opening a sensitive original. The receiving service may retain information independently of Car Passport.
 
 7.5 This Policy describes the Android product. If an iOS or other platform version is released with different permissions, payment services, or data practices, we will update the Policy to describe the relevant processing.
 
 7.6 We remain responsible for our own handling of information and selection and configuration of providers used for our functions, as required by applicable law. Independent external services control information you provide directly to them under their own practices.
 
-## 8. Car Log Pro and In-App Purchases
+## 8. Car Passport Pro and In-App Purchases
 
-8.1 Car Log Pro is designed as an optional one-time purchase for managing an unlimited number of active, unarchived vehicles. Purchasing and purchase restoration are not enabled in the current version described by this Policy.
+8.1 Car Passport Pro is designed as an optional one-time purchase for managing an unlimited number of active, unarchived vehicles. Purchasing and purchase restoration are not enabled in the current version described by this Policy.
 
 8.2 The intended Pro product is a non-consumable, one-time entitlement, subject to the applicable store's transaction status and terms. It is not designed as a recurring subscription.
 
@@ -279,7 +279,7 @@ You may save date reminder records and advance-notice preferences. System notifi
 
 The feature set actually delivered in your version determines what is available. No purchase is available through the current disabled purchase controls.
 
-8.5 In versions where Android purchasing is enabled, Google Play processes the transaction. We do not ask you to send payment card credentials, banking passwords, or your Google account password to us. Vehicle-related payments recorded manually in Car Log are separate from purchasing the App upgrade.
+8.5 In versions where Android purchasing is enabled, Google Play processes the transaction. We do not ask you to send payment card credentials, banking passwords, or your Google account password to us. Vehicle-related payments recorded manually in Car Passport are separate from purchasing the App upgrade.
 
 8.6 When enabled, store integration may retrieve product details, initiate a purchase you request, check purchase status, acknowledge a completed transaction, or restore an entitlement. Those store operations are not currently active. Changes to this processing will be reflected in the Policy when the service becomes available.
 
@@ -289,13 +289,13 @@ The feature set actually delivered in your version determines what is available.
 
 8.9 Cross-platform purchase eligibility is not established by this Policy. Any future platform product and its entitlement handling will be described according to the terms actually offered for it.
 
-8.10 Store transaction records, refunds, and purchase availability are subject to the applicable store's terms. Clearing Car Log's storage does not delete records held by Google or automatically request a refund.
+8.10 Store transaction records, refunds, and purchase availability are subject to the applicable store's terms. Clearing Car Passport's storage does not delete records held by Google or automatically request a refund.
 
 8.11 A change in Pro eligibility does not authorize deletion of your existing vehicle data or originals. Existing records must be preserved; any future rules for managing vehicles above an active-vehicle allowance will be explained without treating entitlement changes as permission to destroy your information.
 
 ## 9. Children's Privacy
 
-9.1 Car Log is a general personal vehicle record-keeping utility and is not specifically directed toward children.
+9.1 Car Passport is a general personal vehicle record-keeping utility and is not specifically directed toward children.
 
 9.2 Its core features process vehicle records and documents locally. We do not operate a server for automatically collecting children's vehicle records or documents.
 
@@ -307,7 +307,7 @@ The feature set actually delivered in your version determines what is available.
 
 ## 10. Vehicle Records, Document Information, and Data Responsibilities
 
-10.1 Car Log organizes information you enter, files you import, and supported text recognized locally. It does not independently obtain your vehicle history from repair shops, insurers, banks, or public authorities.
+10.1 Car Passport organizes information you enter, files you import, and supported text recognized locally. It does not independently obtain your vehicle history from repair shops, insurers, banks, or public authorities.
 
 10.2 Brand and model suggestions are convenience lists. They are not a complete vehicle specification database, proof of ownership, or evidence that a brand endorses the App. Manual entry remains available.
 
@@ -315,7 +315,7 @@ The feature set actually delivered in your version determines what is available.
 
 10.4 Editing confirmed fields does not alter the retained original or automatically overwrite earlier OCR text. Sensitive information in those separate records may therefore remain after a visible field is changed.
 
-10.5 Expense summaries reflect payments you record. An amount due, invoice total, OCR suggestion, or manually selected status is not independently verified evidence of payment. Car Log does not convert currencies or combine different currencies into a single converted total.
+10.5 Expense summaries reflect payments you record. An amount due, invoice total, OCR suggestion, or manually selected status is not independently verified evidence of payment. Car Passport does not convert currencies or combine different currencies into a single converted total.
 
 10.6 Mileage entries and next-service mileage references are records, not live vehicle readings or a maintenance diagnosis. Date reminders do not establish a legal deadline, insurance status, or successful notification delivery.
 
@@ -329,13 +329,13 @@ The feature set actually delivered in your version determines what is available.
 
 ## 11. Changes to This Privacy Policy
 
-11.1 We may update this Privacy Policy to reflect changes to Car Log, its features, applicable legal requirements, security practices, or service providers.
+11.1 We may update this Privacy Policy to reflect changes to Car Passport, its features, applicable legal requirements, security practices, or service providers.
 
 11.2 When the Policy is updated, the **Last Updated** date at the top of this document will be revised.
 
 11.3 We will provide additional notice of material changes through the App, our official website, or another appropriate channel where required by applicable law.
 
-11.4 Review this Policy periodically to understand the processing associated with the version of Car Log you use, especially when a previously unavailable network, backup, export, notification, or purchase feature becomes available.
+11.4 Review this Policy periodically to understand the processing associated with the version of Car Passport you use, especially when a previously unavailable network, backup, export, notification, or purchase feature becomes available.
 
 11.5 Where a change requires new consent or permission, we will seek it before beginning the affected processing, as required by applicable law.
 
@@ -345,19 +345,19 @@ The feature set actually delivered in your version determines what is available.
 
 **Developer:** KAI_Q Studio
 
-**Application:** Car Log
+**Application:** Car Passport
 
 **Email:** [contact@kaiqstudio.com](mailto:contact@kaiqstudio.com)
 
 **Official Website:** [https://kaiqstudio.com](https://kaiqstudio.com)
 
-12.2 You may contact us about the information processed by Car Log, privacy-related controls, or information you voluntarily submitted through support channels.
+12.2 You may contact us about the information processed by Car Passport, privacy-related controls, or information you voluntarily submitted through support channels.
 
 12.3 We can assist with information under our control. Vehicle records, originals, and OCR history stored exclusively on your device are managed through the App's available controls and Android storage settings.
 
 12.4 If you contact us by email or through an available support form, we process the information you provide to respond and handle the related request. Provide only what is necessary and remove unnecessary personal information from documents or screenshots before sending them.
 
-12.5 We are committed to respecting user privacy and explaining the data practices associated with Car Log.
+12.5 We are committed to respecting user privacy and explaining the data practices associated with Car Passport.
 
 ---
 
